@@ -79,7 +79,6 @@ description: Oak Studios builds creative digital products like Dropmark and Site
 permalink: pretty
 exclude:
 - Gruntfile.js
-- Gemfile
 - Gemfile.lock
 - package.json
 - README*
