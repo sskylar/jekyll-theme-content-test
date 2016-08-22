@@ -1,5 +1,4 @@
 ---
-theme: siteleaf-base
 title: Oak Studios
 timezone: America/New_York
 collections:
@@ -38,29 +37,29 @@ defaults:
 - scope:
     path: ''
   values:
-    image:
+    image: 
 - scope:
     path: ''
     type: posts
   values:
     permalink: "/thinking/:title/"
     layout: post
-    description:
-    tags:
-    hero:
-    fg_color:
-    bg_color:
+    description: 
+    tags: 
+    hero: 
+    fg_color: 
+    bg_color: 
 - scope:
     path: ''
     type: helping
   values:
     permalink: "/helping/:title/"
     layout: post
-    description:
-    tags:
-    hero:
-    fg_color:
-    bg_color:
+    description: 
+    tags: 
+    hero: 
+    fg_color: 
+    bg_color: 
 - scope:
     path: ''
     type: blog_tags
@@ -73,6 +72,7 @@ defaults:
   values:
     layout: post
     location: Brooklyn, NY
+theme: siteleaf-base
 url: http://oak.is
 description: Oak Studios builds creative digital products like Dropmark and Siteleaf,
   invests in new ideas, and helps companies innovate.
@@ -90,7 +90,7 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-redirect-from
-excerpt_separator: |2+
+excerpt_separator: 
 sass:
   sass_dir: assets/css/
   style: compressed
