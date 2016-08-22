@@ -1,0 +1,27 @@
+---
+title: Here’s Jonnie!
+date: 2013-06-22 12:00:00 -04:00
+published: false
+tags:
+- Announcement
+- Studio
+description: Here’s Jonnie!
+---
+
+![Jonnie Hallman](/uploads/cafejonnie.jpg)
+{: .wide}
+
+Jonnie Hallman
+{: .caption .wide}
+
+Today is an exciting day for Oak, we are extremely giddy to announce Jonnie Hallman has [joined the team](http://destroytoday.com/blog/joining-oak/)!
+
+We first had the pleasure of meeting Jonnie (aka [Destroy Today](http://twitter.com/destroytoday)) when he joined our co-working space [Studiomates](http://studiomates.com) last year, and quickly became friends. Since then, we’ve been lucky enough to work with him on a few projects at Oak—first on [Dropmark](http://dropmark.com), and on a bigger scale, the recent launch of [Siteleaf](http://siteleaf.com). Working with Jonnie, it was unbelievable how well we meshed, and it quickly became clear this was meant to be.
+
+
+
+Jonnie previously worked at Adobe as a mobile and prototype designer, before branching out on his own and creating apps like the beautiful new [TeuxDeux](http://destroytoday.com/work/teuxdeux). He also created one of the best early Twitter clients, [DestroyTwitter](http://destroytoday.com/work/destroytwitter/) (sadly now [destroyed by Twitter](https://twitter.com/destroytoday/status/344825994105995265)).
+
+His talent as a designer and developer are only matched by his talent as brewmaster at his own [Café Jonnie](http://www.cafejonnie.com) located at Studiomates.
+
+Welcome to the team Jonnie!

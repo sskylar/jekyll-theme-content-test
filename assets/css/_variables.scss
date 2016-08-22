@@ -1,0 +1,54 @@
+// typography
+// ----------
+
+$font-size--html:    18px;
+$font-size--html-sm: 16px;
+
+$font-size--small: 0.833333em;
+
+$font-family--monospace:     'Input Mono Narrow';
+$font-family--monospace-alt: 'Input Mono';
+$font-family--serif:         'Tiempos Headline', serif;
+
+$font-weight--normal: 400;
+$font-weight--bold:   700;
+
+$line-height--tight: 1.2;
+$line-height--base:  1.5;
+
+$letter-spacing--tighter: -0.03em;
+$letter-spacing--tight:   -0.02em;
+$letter-spacing--loose:   0.05em;
+
+// sizing and spacing
+// ------------------
+
+$v: $line-height--base * 1rem;
+
+$char:    10.84px;
+$char-sm: 9.64px;
+
+// grid
+// ----
+
+$min-width--sm: 480px;
+$min-width--md: 720px;
+$min-width--lg: 960px;
+$min-width--xl: 1200px;
+$max-width--xs: ($min-width--sm - 1);
+$max-width--sm: ($min-width--md - 1);
+$max-width--md: ($min-width--lg - 1);
+$max-width--lg: ($min-width--xl - 1);
+
+$max-width--container: 1320px;
+
+$gutter: 2.777778%;
+
+// miscellaneous
+// -------------
+
+$opacity--semilight: 0.9;
+$opacity--light:     0.6;
+$opacity--lighter:   0.2;
+
+$duration--normal: 0.1s;

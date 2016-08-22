@@ -1,0 +1,28 @@
+---
+title: Introducing Sprout
+date: 2013-11-21 09:00:00 -05:00
+tags:
+- Announcement
+- Products
+description: 
+hero: <img src="/uploads/sprout.svg">
+---
+
+Back in 2011 we challenged ourselves to redesign our website in [one week](http://oak.is/thinking/new-website/). It sounded like a crazy idea, leading [.net Magazine](/thinking/in-net-magazine/) to publicly question our sanity, but what we learned in that week was invaluable and helped shape the way we work today. It taught us how to be efficient and really focus on what's important.
+
+Our company has a grown a lot since then—we've had the pleasure of working with global brands like Apple, NASDAQ, and UNICEF, and also launched a handful of successful [products](/building) of our own, including [Symbolset](http://symbolset.com) and [Dropmark](http://dropmark.com). Most recently we launched [Siteleaf](http://www.siteleaf.com), a lightweight content management system for web developers and their clients.
+
+
+
+
+The web has also changed in a big way over past few years. Over 1.2 billion people now access the web from mobile devices, accounting for a staggering [17% of all Internet traffic](http://mashable.com/2013/08/20/mobile-web-traffic/). We are living in the mobile age, and with 2014 around the corner, it's time to get your website up to speed.
+
+## Sprout is here to help
+
+Today we are taking everything we've learned and rolling it into a white-glove service we call [Sprout](http://sprout.is). 
+
+Sprout combines website optimization, mobile design, user experience, analytics, and Siteleaf content management to make your website **faster**, **smarter**, and **responsive** in just **seven days**.
+
+It's backed by our [expert team](/about), and affordable too. **Starting at $2,500**, Sprout is perfect for start-ups, product launches, microsites, or anyone who wants to improve their website.
+
+Find out more at <http://sprout.is>.

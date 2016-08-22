@@ -1,0 +1,43 @@
+---
+title: Oakweek 2012
+date: 2012-08-31 12:00:00 -04:00
+tags:
+- Studio
+description: 'Having a summah: Oakweek 2012'
+---
+
+![Oakweek work session](/uploads/table.jpg)
+{: .wide}
+
+Oakweek work session
+{: .caption .wide}
+
+On a mild August morning, the [team](http://oak.is/about/) at Oak packed a car and traveled to the Hamptons for a company retreat dubbed _#Oakweek_. It was a rare chance to withdraw from the frenetic pace of New York City for a week. An opportunity to step out of the studio and into new perspectives on ourselves and our work. A time to bond. We balanced rigorous work (like designing and launching a new studio website in a day) with spontaneous moments of recreation. The result was a very productive, entertaining end of summer trip.
+
+Along the way, a search to find the perfect ginger beer for making dark n' stormies led us to the small hamlet of Syosset, New York. There we found one thing we were looking for, [Barritt’s Ginger Beer](http://www.barrittsgingerbeer.bm/), and also a pleasant surprise as we drove past the aptly named Oak Drive.
+
+After a few more stops we arrived at our destination: the [Old Stone Highway house](http://freshome.com/2008/03/24/old-stone-highway-house/). John Berg, of [Berg Design Architecture](http://www.bergdesignarchitects.com/), designed and built the house for himself and his family. A modern interpretation of Long Island agricultural vernacular, the house draws its inspiration from a barn built in the 1800s.
+
+
+
+The first rule of _#Oakweek_ is to have yourself a [summah](http://www.youtube.com/watch?v=pv8yS8vaqXs). Each day commenced with a hearty breakfast (occasionally in the hot tub), continuing with work sessions through the day, ending with time for movies, cards, and swimming in the evening.
+
+![Breakfast](/uploads/breakfast.jpg)
+
+Breakfast
+{: .caption}
+
+Each meal was prepared by the team, generally with one person having a recipe in mind and delegating tasks to everyone else. Some of our culinary creations included grilled margherita pizza, sweet potato curry, Doritos casserole, portabella fajitas, breakfast tacos, and kabobs.
+
+During the week, we discussed plans for the future of the company including focusing more on our own products like [Symbolset](http://symbolset.com/), [Dropmark](http://dropmark.com/), and [Siteleaf](http://siteleaf.com/), and some potential new projects. Wednesday we planned and Thursday we built. The result is ACORN (or Aggregated Console of Recent News), a status board that tracks projects, product sales, to-dos, traffic to our sites, and more.
+
+Last summer we redesigned our site in [one week](http://oak.is/thinking/new-website/). This year we raised our game by [redesigning it in one day](/thinking/24-hour-redesign/). We started with wireframes around 10 am on Friday morning and 21 bleary-eyed hours later our [new site](http://oak.is/) had arrived.
+
+![East Hampton house by Berg Design Architecture](/uploads/house2.jpg)
+
+East Hampton house by Berg Design Architecture
+{: .caption}
+
+We returned to Brooklyn with a new website and internal status board, sore muscles, fresh energy, future plans, and lasting memories.
+
+Highlights: Watching JAWS from the swimming pool at night, swimming across Louse Point, [7 Eleven slurpees](http://cdn.dropmark.com/58/2d0da436b8354e456db534231d8c5fbe411cedec/tumblr_llze1yxQKY1qgbvzco1_500.gif), havin' a summah, inside jokes, Big Jambox DJing, movie night every night ( [Fortress](http://www.youtube.com/watch?feature=player_embedded&v=3U6oLx3xy8s) and [Fortress 2](http://www.youtube.com/watch?v=fBHMAHVROB4), [Space Jam](http://www2.warnerbros.com/spacejam/movie/jam.htm), [Fantastic Mr. Fox](http://cdn.dropmark.com/6/d854c9c6d8199fdea378d8108c4fb42548e6197d/4e1c6df4dd11b.gif), Flight of the Navigator), all nighter for new website, frequent [deer sightings](http://cdn.dropmark.com/1/40816e4874c58e349c076b98cb48a9de6508cd0f/IMG_2122_preview.jpg), beach football, tennis and basketball games, [s'mores](http://www.amazon.com/BonJour-Brulee-Culinary-Brushed-Aluminum/dp/B000G9OYX4), [Rick Ross](http://rapgenius.com/artists/Rick-ross), [card](http://www.dutchblitz.com/) [games](http://www.amazon.com/BANG-La-Pallottola-The-Bullet/dp/B001037L8K), Project ACORN [hackathon](http://cdn.dropmark.com/1/0d509a9408ed9029b03f180016d461609e69a904/4f17f0feaa3ce.gif).

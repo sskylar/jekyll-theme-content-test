@@ -1,0 +1,55 @@
+---
+title: Shipped in 2015
+date: 2015-12-31 00:00:00 -05:00
+tags:
+- Studio
+description: 
+hero: 
+featured: 
+---
+
+## In 2015 we…
+
+Introduced the world to the all-new [Dropmark v2](http://www.dropmark.com/blog/welcome-to-the-new-dropmark), with a [newly redesigned dashboard](http://www.dropmark.com/blog/explore-your-dashboard), [more customizations](http://www.dropmark.com/blog/customize-your-collection/), [improved thumbnails](http://www.dropmark.com/blog/improved-thumbnails), [cover images](http://www.dropmark.com/blog/cover-images), and our biggest addition: Teams.
+
+Worked with our friends at [Collins](http://www.wearecollins.com) and helped them launch a new website built on Siteleaf.
+
+Moved our studio from DUMBO in Brooklyn (where we’ve been since 2010) to Union Square in Manhattan. After many years, Studiomates was closed after our building was sadly reconstructed into condos. 
+
+Added another new Symbolset, [SS Community](http://blog.symbolset.com/new-set-ss-community) designed by our friends at Hyperakt.
+
+Once again worked with the [School of Visual Arts](http://oak.is/helping/sva) to release a new version of their iOS app, which we originally developed in 2013.
+
+
+
+Designed a new website for the SVA Design & Advertising departments: [sva.design](http://sva.design) (our first use of the .design TLD)
+
+Updated Dropmark’s [import tool](http://www.dropmark.com/blog/import) to support Pinterest, Delicious, Pocket, and more. Much was learned about the Netscape HTML Bookmark format, which somehow is still the standard.
+
+Added a bunch of advanced liquid filters to Siteleaf including [Sort](http://www.siteleaf.com/blog/advanced-liquid-sort), [Where](http://www.siteleaf.com/blog/advanced-liquid-where), and [Group By](http://www.siteleaf.com/blog/advanced-liquid-group-by).
+
+Started a Dropmark interview series where we chatted with creative people and teams like [Kelli Anderson](http://www.dropmark.com/blog/how-kelli-anderson-gets-things-done), [Heath Ceramics](http://www.dropmark.com/blog/how-heath-ceramics-gets-things-done) and [more](http://www.dropmark.com/blog/category/interview).
+
+Introduced [@mentions](http://www.dropmark.com/blog/mentions) and [#tags](http://www.dropmark.com/blog/search-with-tags) in Dropmark.
+
+Made Dropmark even smarter with [geolocation for items](http://www.dropmark.com/blog/add-location).
+
+Added [image annotations](http://www.dropmark.com/blog/image-annotations) to Dropmark.
+
+Continued our relationship with [Creative Mornings](https://creativemornings.com), launching [Podcasts](https://creativemornings.com/podcast) and [FieldTrips](https://creativemornings.com/fieldtrips), and helping them grow to 130k users in 130+ cities around the world.
+
+Updated [Dropmark for Mac](http://www.dropmark.com/blog/capture-screenshots) to support screenshot capture.
+
+Introduced [bulk actions and stacks](http://www.dropmark.com/blog/making-stacks-in-bulk) in Dropmark.
+
+Introduced a [publish API](http://www.siteleaf.com/blog/publishing-via-the-api) for Siteleaf.
+
+Continued our relationship with [Working Not Working](http://workingnotworking.com), adding new features, building an iOS app, and helping them grow their internal team with their first full-time developer.
+
+Worked with New York University Libraries to design a new website built on Siteleaf.
+
+Drove upstate to New York’s [Ulster County](http://www.designsponge.com/2015/10/ulster-county-new-york-guide.html) for our annual Oakweek retreat. Toured a [whiskey distillery](http://hudsonwhiskey.com), hiked at Mohonk Mountain House, enjoyed some unseasonably warm days, made s’mores, learned how to humanely catch mice (thanks [Chris Glass](http://journal.chrisglass.com/2005/09/how_to_catch_a_.html)), and laid the foundation for Siteleaf v2.
+
+Gave users a sneak peek at what’s to come in [Siteleaf v2](http://www.siteleaf.com/blog/v2-beta) (we’ve been working hard on this for the past 6 months!).
+
+**Previously:** [2014](/thinking/2014) and [2013](/thinking/2013)

@@ -1,0 +1,81 @@
+---
+title: Shipped in 2014
+date: 2014-12-31 00:00:00 -05:00
+tags:
+- Studio
+description: 
+hero: 
+featured: 
+---
+
+## In 2014 we…
+
+Introduced 2 new Symbolsets: [SS Glyphish](http://blog.symbolset.com/new-set-ss-glyphish)
+ by Joseph Wain (which comes two complementary styles, Outlined and Filled) and [SS Elements](http://blog.symbolset.com/new-set-ss-elements) by Jory Raphael.
+Designed a new website for [Collaborative Fund](http://www.collaborativefund.com), along with a refined logo and branding.
+
+Worked with one of our favorite type designers, Tobias Frere-Jones to create his first website and blog for Frere-Jones Type.
+
+Worked with [Girl Rising](http://girlrising.com), a global campaign for girls’ education, to spread their message with a new website designed and built on Siteleaf.
+
+Worked with the [School of Visual Arts](http://oak.is/helping/sva) to release a new version of their iOS app, which we originally developed in 2013.
+
+Continued working with [Creative Mornings](https://creativemornings.com)
+ to expand the platform, improve the ticketing system, and make it easier to bring new chapters on board.
+
+
+
+Designed a new e-commerce website for the American made clothing brand Flint and Tinder.
+
+Updated [SS Symbolicons](http://blog.symbolset.com/symbolicons-update) and [SS Social](http://blog.symbolset.com/new-symbols-in-social-1) with hundreds of new icons.
+
+Launched [Typesetter](http://typesetter.symbolset.com), a handy, [open source](https://github.com/symbolset/typesetter) drag-and-drop tool for testing your fonts in the browser ([more info](http://blog.symbolset.com/introducing-typesetter)).
+
+Experimented with [multicolor fonts](http://blog.symbolset.com/multicolor-fonts) and created [SS Emoji](http://blog.symbolset.com/making-ss-emoji), releasing it as an open source beta on [GitHub](https://github.com/symbolset/ss-emoji-beta).
+
+Answered some questions for [Herman Miller](http://www.hermanmiller.com/research/topics/all-topics/collaborative-spirit.html) on collaboration and workspaces.
+
+Built an [import tool for Dropmark](http://www.dropmark.com/blog/import-from-icebergs), allowing Icebergs users to import their content after Pinterest acqui-hired and shut down the service (RIP).
+
+Were [nominated for Agency of the Year](http://oak.is/thinking/net-awards) at the Net Awards. In addition, we were nominated for Redesign of the Year for our work on Creative Mornings, and our very own Sawyer Hollenshead was nominated for Young Designer of the Year.
+
+Developed a new website for design and innovation consultancy [Openbox](http://opnbx.com), built on Siteleaf.
+
+Developed a new website for [Makeshift Magazine](http://mkshft.org) with responsive editorial layouts, video, e-commerce and more.
+
+Gave [Net Magazine](http://oak.is/thinking/net-magazine) a tour of our workspace at Studiomates.
+
+Were excited to have [Creative Mornings](http://oak.is/thinking/creativemornings-nominated-webby) nominated for a Webby Award.
+
+Introduced the world to [Seconds Since Tupac](http://secondssincetupac.com) (or Tupac Time), not to be confused with Epoch Time. A joke that stemmed from an afternoon hack session, taken [way too far](http://oak.is/thinking/seconds-since-tupac).
+
+Introduced [user roles](http://www.siteleaf.com/blog/introducing-user-roles) in Siteleaf.
+
+Added [GitHub Pages](http://www.siteleaf.com/blog/github-pages) and [SFTP](http://www.siteleaf.com/blog/publish-to-sftp) to our growing list of Siteleaf-supported web hosts.
+
+Worked with Collins to develop a new website for [Babyganics](http://babyganics.com), maker of modern healthy baby products.
+
+Worked with our friends at [Hyperakt](http://hyperakt.com) to develop their new website.
+
+Helped Font Bureau celebrate the work of its founder and recipient of the 2014 Type Directors Club medal, [David Berlow](http://davidberlow.fontbureau.com).
+
+Worked with Spotify to design and code an upcoming brand guideline website, built on Siteleaf.
+
+Were featured as [How Magazine’s Designer Spotlight](https://twitter.com/cameronmoll/status/524576682230169600) in their September issue.
+
+Continued working with Working Not Working, helping them launch a bunch of new features including the [UnJobBoard](https://workingnotworking.com/jobs)
+ and a brand new [marketing site](https://workingnotworking.com). 
+
+Introduced [Symbolset for Brands](http://blog.symbolset.com/symbolset-for-brands) to offer custom icon design and technology, working with companies like Kickstarter, [Etsy](http://blog.symbolset.com/sell-on-etsy), Salesforce, and Shopify.
+
+Redesigned the [navigation UI](http://www.siteleaf.com/blog/improvements-to-page-and-post-management) to make page and post editing easier in Siteleaf.
+
+Won a [TDC Award](https://www.tdc.org/competitionwriteup/tdc-communication-design-winners-2014/) for our work on the [Village](http://vllg.com) website.
+
+Spent a week relaxing and working in New York’s Adirondacks for our annual Oakweek retreat. Quality time kayaking, hiking, BBQing, hot tubbing, and planning for what’s to come.
+
+Previewed the all new [Dropmark v2 beta](http://www.dropmark.com/blog/beta-test-the-new-dropmark).
+
+Worked with Facebook to redesign part of their iOS app, spending a week hacking with them in San Francisco.
+
+**Previously:** [2013](/thinking/2013)

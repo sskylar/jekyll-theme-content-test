@@ -1,0 +1,45 @@
+---
+title: Intern with Oak
+date: 2016-02-02 12:00:00 -05:00
+published: false
+tags:
+- Announcement
+- Studio
+description: Code. Hack. Hustle. Intern with oak.
+featured: 
+---
+
+We are looking for a talented intern to join our New York studio.
+
+At [Oak](http://oak.is) we create products including [Dropmark](http://www.dropmark.com) and [Siteleaf](http://www.siteleaf.com), and work with clients like [CreativeMornings](/helping/creativemornings), [Working Not Working](/helping/working-not-working), and the [School of Visual Arts](/helping/sva) to design websites, apps, and brands.
+
+Recently we've been busy reimagining Siteleaf for a 2.0 release, working to bring Dropmark to iOS, and a few other upcoming projects. 
+
+As an intern, you’ll have the opportunity to experience working in a multidisciplinary studio with a small, tight-knit team. We are designers who think in code, and makers who wear many hats. Your passion and interest in coding, communication, typography, design, writing, animation, illustration, or [pizza](/helping/pizza-compass) are all welcomed and encouraged here. 
+
+You will continue to learn, hone your skills, and contribute valuable work to real projects (and fun side-projects) for the web and mobile devices.
+
+
+![Studio in Union Square](/uploads/office2.jpg)
+
+Studio in Union Square
+{: .caption}
+
+We are located in a [beautiful](http://www.fastcompany.com/3043545/most-creative-people/here-is-an-open-office-any-employee-would-love) Manhattan studio filled with creative energy, panoramic views, and our friends at [Collins](http://www.wearecollins.com). Enjoy everything [Union Square](http://en.wikipedia.org/wiki/Union_Square,_Manhattan) has to offer, including at least 6 Chipotles within a 4-block radius and a daily selection of lunch recommendations by our bagel-obssesed [Slack-bot](http://drp.mk/i/S2T2hHwnqN).
+
+Ideal candidates should have:
+
+- Strong coding skills (we work in Ruby, Node.js, PHP, and Swift)
+- Self-motivation and good work ethic
+- Eagerness to learn new things
+- Strong communication skills
+- Good understanding of our products
+- Belief that anything is possible
+
+This is a paid internship and commitment is flexible. Past interns have went on to work for companies like Facebook, Hyperakt, and here at Oak.
+
+Sound like you? Send an email to [team@oakmade.com](mailto:team@oakmade.com) and introduce yourself. 
+
+Hope to hear from you soon!
+
+— Skylar, Larry, and Sawyer

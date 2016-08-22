@@ -1,0 +1,22 @@
+---
+title: Movember
+date: 2012-11-08 00:00:00 -05:00
+tags:
+- Studio
+- Announcement
+description: Growing questionable facial hair for health.
+---
+
+![Artist’s rendering, actual mustaches may vary](/uploads/stached.png "Artist’s rendering, actual mustaches may vary")
+{: .wide}
+
+Artist’s rendering, actual mustaches may vary
+{: .caption .wide}
+
+This November the team at Oak is taking part in [Movember](http://us.movember.com/about/), the annual month-long moustache-growing initiative to raise awareness of men’s health issues.
+
+Throughout the month we (along with our friends at [Working Not Working](http://workingnotworking.com)) will be trying our hardest to grow questionable facial hair and raise money to support the Prostate Cancer Foundation, Livestrong, and other Movember programs.
+
+Follow our daily progress and cheer us on by [donating to the cause](http://us.movember.com/team/814841):
+
+[http://oak.is/movember](http://oak.is/movember)

@@ -1,0 +1,28 @@
+---
+title: Introducing Gazette
+date: 2013-03-21 12:00:00 -04:00
+tags:
+- Announcement
+- Products
+description: Introducing <a href="http://gazette.io" target="_blank" class="products">Gazette</a>
+---
+
+![](/uploads/blog-post-image.png)
+{: .wide}
+
+I love reading what smart people write. I hate trying to find what smart people have written.
+
+Normally I discover great content through Twitter when someone else makes the discovery and shares a link. Other times I visit some of my go-to smart people’s websites to see if they've written anything new recently. This isn’t the greatest of systems for enjoying web content. Some people’s solutions to this is to subscribe to RSS feeds of their favorite sites. Up until this point they were probably using Google Reader ([RIP](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html)) in some form, which set the stage for what people think of when they think of RSS readers—a continuous stream of new content, separated by source, with unread counts, favoriting, folders, tagging, etc. Of course countless other services came out that improved upon and evolved this idea, but most of them remained in the same sandbox.
+
+That’s why we created [Gazette](http://gazette.io).
+
+
+
+![gazette.io](/uploads/gazette.io.png "gazette.io")
+
+gazette.io
+{: .caption}
+
+Gazette is different. There are no unread counts, no tagging, no favoriting, no folders, no stream of continuous content. Gazette is a service that happens to use RSS so you can subscribe to your favorite sites. What you get is one ebook every Friday with the content from your subscriptions that week. One ebook with a start and an end. Open it in your favorite reading app on your iPad, iPhone, or other ePub compatible device and you're presented with a table of contents with that week's content. You can take it with you on the subway, to the pool, or wherever you enjoy reading. If you enjoy highlighting text as much as we do, then you’ll love the Gazette reading experience. You can even connect to Readmill so that each week’s issue is pushed to your device automatically.
+
+We’re pretty excited about the potential of Gazette, and we’re just getting started. It's about time that the experience around subscribing to web content became more like reading a book rather reading your email.

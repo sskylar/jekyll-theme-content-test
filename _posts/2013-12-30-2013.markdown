@@ -1,0 +1,69 @@
+---
+title: Shipped in 2013
+date: 2013-12-30 10:55:00 -05:00
+tags:
+- Studio
+description: '2013'
+hero: <img src="/uploads/oak_desk.jpg">
+featured: '1'
+---
+
+## In 2013 we...
+
+Launched a marketing site for Monotype's [SkyFonts](/helping/monotype) service.
+
+Shipped (literally) 1000 [Symbolset specimen books](http://blog.symbolset.com/symbolset-catalog-available) to our favorite customers.
+
+Introduced [Dashboard view](http://dropmark.com/blog/dashboard) on Dropmark with new privacy settings, quick upload, and collection merging.
+
+Created and shipped our first iOS app [Blue](/thinking/blue) during [Oakweek in Los Angeles](/thinking/oakweek-los-angeles).
+
+Designed our first piece of furniture, a [16-foot worktable](http://www.flickr.com/photos/oakmade/8619533203/) made of reclaimed oak (a collaboration with [Lorimer Workshop](http://www.lorimerworkshop.com)), completing our new studio space at [Studiomates](http://www.flickr.com/photos/swiss-miss/sets/72157634178073845/).
+
+
+
+Redesigned [Symbolset.com](http://symbolset.com), launched while attending SXSW in Austin.
+
+Introduced [Symbolset Hosting](http://blog.symbolset.com/introducing-hosting) to simplify semantic icons on the web.
+
+Designed a fresh new [packaging system](/helping/quarterly/#2013) for Quarterly Co.
+
+Redefined RSS consumption with [Gazette](/thinking/gazette), our weekly blog-to-ebook service.
+
+Introduced [commenting, geo-location, and metadata](http://dropmark.com/blog/introducing-comments) in Dropmark. 
+
+Won 2 [Webby Awards](/thinking/wnw-webby) for Working Not Working.
+
+Cooked up our second iOS app [Pizza Compass](http://pizza-compass.com) with studiomate [Dan Blackman](http://danblackman.com/pizzacompass/) and visionary [Zeus Gorham Munkist](/thinking/pizza-compass), hitting #1 in the App Store Food & Drink category.
+
+Shipped our third iOS app for [School of Visual Arts](/helping/sva), powered by the Dropmark API.
+
+[Doubled storage](http://dropmark.com/blog/more-storage/) on Dropmark because we love our users.
+
+Rebuilt and launched [Siteleaf](http://www.siteleaf.com) (our content management for web developers) to the world.
+
+Created a marketing site for a stealth new startup, and fell in love with [SVG animations](/thinking/animated-svgs) along the way.
+
+Made Dropmark better with [one-click collection downloads](http://dropmark.com/blog/one-click-downloads).
+
+Gave Unix time (seconds since epoch) some stiff competition with our very own [Seconds Since Tupac](http://secondssincetupac.com).
+
+Launched our biggest project of the year, [CreativeMornings](/thinking/creativemornings) with over 345 hours of video, 11 languages, and 1,372 GitHub commits.
+
+Hosted our first, second, and third [Siteleaf Hackday](http://www.siteleaf.com/blog/hackday) in Brooklyn.
+
+Created a new website for type foundry collective [Village](http://vllg.com), introducing responsive design and web font sales.
+
+Added [developer accounts](http://www.siteleaf.com/blog/developer-accounts/) to Siteleaf, making it easy for developers to test sites for free.
+
+Introduced [Sprout](/thinking/sprout), a white-glove service to help customers optimize their website and upgrade to Siteleaf.
+
+Added 6 new Symbolsets: [Gizmo](http://symbolset.com/icons/gizmo), [Forecast](http://symbolset.com/icons/forecast), [Steedicons](http://symbolset.com/icons/steedicons), [Junior](http://symbolset.com/icons/junior), [Geomicons Squared](http://symbolset.com/icons/geomicons-square), and [Air](http://symbolset.com/icons/air).
+
+Created [Woodshop](http://www.woodshopusa.com), a celebration of handcrafted wood products made in the USA.
+
+Redesigned [Working Not Working](http://workingnotworking.com), the biggest change since its first launch in 2011.
+
+## Work with us
+
+Have an interesting project? [Get in touch](mailto:info@oakmade.com) and let's make things happen in 2014.

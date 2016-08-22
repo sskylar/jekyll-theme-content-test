@@ -1,0 +1,35 @@
+---
+title: Introducing Blue
+date: 2013-01-30 12:00:00 -05:00
+tags:
+- Announcement
+- Products
+description: Introducing <a href="http://partlyblue.com" target="_blank" class="products">Blue</a>
+---
+
+![Blue: now available on the App Store for iPhone, iPad, and iPod Touch (Photo: PlaceIt)](/uploads/screenshot.jpg "Blue: now available on the App Store for iPhone, iPad, and iPod Touch (Photo: PlaceIt)")
+{: .wide}
+
+Blue: now available on the App Store for iPhone, iPad, and iPod Touch (Photo: PlaceIt)
+{: .caption .wide}
+
+Today we are excited to announce the launch of our first iOS app: [Blue](http://partlyblue.com).
+
+Blue provides 36-hour weather forecasts relevant to your location in a fast and fun interface. Swipe up to see each hour represented in a beautiful, colorful gradient visual: whether you're in Fiji, or simply at work.
+
+The unique hourly colors are generated based on three variables: temperature, humidity, and sunrise/sunset times for your current location. Temperatures are shown in either Fahrenheit or Celsius (controlled by your iOS region settings), and icons provided by [Symbolset](http://symbolset.com) (a new set soon to be released) help reinforce the weather conditions.
+
+
+
+![From cold to hot, Blue represents weather forecasts with color](/uploads/variations.png "From cold to hot, Blue represents weather forecasts with color")
+
+From cold to hot, Blue represents weather forecasts with color
+{: .caption}
+
+The app was inspired by a weather widget we had previously made for ACORN, our internal status board. We quickly found how well color can describe weather, much more than just a number. After using it for just a few days you’ll start to learn what the colors mean, and know exactly what kind of coat to wear when you see green.
+
+Translating our widget to iOS, we experimented with layout, content, typography, and color. We realized fairly early on that we wanted the app to be dead simple, in order to keep the app uncomplicated and easy to use. The design rounded into form by building prototypes and interacting with them full-size on mobile devices and then adjusting variables based on those interactions. This tight feedback loop allowed us to hone the core interactions, layout, typography, and colors into a polished product.
+
+If you haven't already, head over to the [App Store](https://itunes.apple.com/us/app/blue-weather/id594126537?ls=1&mt=8) now and get Blue for iPhone, iPad, and iPod touch (search for “Blue Weather”). It is available for only $0.99 for a limited time.
+
+Be sure to follow [@partlyblue](http://twitter.com/partlyblue) on Twitter for updates, and visit  [partlyblue.com](http://partlyblue.com) to see the app in action. We hope you enjoy using Blue as much as we’ve enjoyed making it!

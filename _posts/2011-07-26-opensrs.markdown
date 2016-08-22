@@ -1,0 +1,39 @@
+---
+title: With compliments to OpenSRS
+date: 2011-07-26 12:00:00 -04:00
+tags:
+- Marketing
+---
+
+GoDaddy is the largest domain name registrar _by far_, with around [32% marketshare](http://www.webhosting.info/registrars/top-registrars/global/) (or around 40,212,493 domain names), according to the website WebHosting.Info.
+
+At Oak, we’ve registered more than a few domain names through GoDaddy—cringing each time Danica Patrick stares us down. But, as the largest registrar, they have the lowest prices, and for the most part, things ‘just work.’ [Recent events](http://mashable.com/2011/03/31/godaddy-ceo-elephant/), however, made us question where our money is going.
+
+In April, we decided to try out [OpenSRS](http://opensrs.com) as a way to manage our growing repertoire in bulk.
+
+Despite the fun branding by illlustrator [John Martz](http://johnmartz.com/), OpenSRS seemed to fall short with their clunky, dated UI (a new version appears to be under development). For the most part, I forgot about it.
+
+Then last week, an unassuming box showed up at the studio:
+
+![“With compliments from OpenSRS”](/uploads/box.jpg "“With compliments from OpenSRS”")
+
+“With compliments from OpenSRS”
+{: .caption}
+
+I recognized the OpenSRS logo, but couldn’t figure out what they would be sending us…
+
+![Not your average tchotchkies](/uploads/inside.jpg "Not your average tchotchkies")
+
+Not your average tchotchkies
+{: .caption}
+
+Inside we found an OpenSRS-branded care package complete with a Field Notes-style notebook, pre-sharpened pencil, buttons, and icing-on-the-cake, a vinyl toy recreation of OpenSRS “service guy” mascot. Not your average tchotchkies.
+
+No explanation, no salesy ‘upsell,’ just a box full of fun stuff.
+
+![“Service guy” at Oak HQ, in front of the Manhattan Bridge](/uploads/service-guy.jpg "“Service guy” at Oak HQ, in front of the Manhattan Bridge")
+
+“Service guy” at Oak HQ, in front of the Manhattan Bridge
+{: .caption}
+
+Nice work OpenSRS. You definitely have our attention again.

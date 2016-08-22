@@ -1,0 +1,60 @@
+---
+title: Oak 2.0
+date: 2016-07-06 09:00:00 -04:00
+tags:
+- Announcement
+featured: 
+---
+
+Oak was born in 2008. For the first few years it was barely a company, just myself and one client. It wasn’t until 2010 that I nervously hired my first employee and began on the path that would ultimately lead us to today.
+
+For most of Oak’s existence we’ve been a client-oriented web design shop. This began primarily out of necessity, but thanks to our amazing team[^team], we’ve done a [mighty fine job](/helping) of it.
+
+Here are just a few highlights so far:
+
+- In 2011, Craig Shapiro and Zach Frechette came to us with an idea. We worked to name, brand, and launch what became [Quarterly.co](http://quarterly.co), growing them to a point where they could [raise funding](https://techcrunch.com/2012/03/29/quarterly-series-a/) and hire an in-house team (we loved the idea so much, we decided to [invest](/building) ourselves). 
+
+- We repeated this success in 2012 with [Working Not Working](http://workingnotworking.com), helping Justin Gignac and Adam Tompkins grow an idea into a platform that connects freelancers with companies that want to hire them. WNW was able to also [raise funding](http://adage.com/article/agency-news/working-working-funding-droga5-airbnb/300064/) and transition to an in-house team, the definition of success to us. This project also earned us our first Webby award.
+
+- In 2014 we were [nominated for Agency of the Year](/thinking/net-awards/) by the Net Awards. We didn’t win, but it was still pretty cool to be nominated alongside legit agencies we look up to.
+
+- In late 2014, we spent 2 months working alongside the in-house team at [Facebook](/helping/facebook). We did some quality work, while getting a rare insider look at how a company at that scale operates. Especially interesting in contrast to our 4-person team.[^newsletter]
+
+* * *
+
+These projects have been rewarding, but alongside working with clients, we’ve also been lucky enough to launch our very own products.
+
+First in 2011, we launched [Dropmark](http://www.dropmark.com) as a collaborative tool for visual organization and bookmarking. Working on projects with clients, we constantly found ourselves wanting to grab a handful of images or links and share them (inspiration, comps, etc) so we built Dropmark to serve this purpose. We wanted it to be simple, somewhere you could just toss a couple things and get a link back without much fuss. It’s come a long way since this [rather embarrassing](https://vimeo.com/20635463) launch video. Dropmark is now on the web, Mac OS X, and soon iOS ([now in beta](https://dropmark.typeform.com/to/jTbcNs)!).
+
+In 2012 we launched our second product [Symbolset](http://symbolset.com), built to bring semantics and meaning to icons. Designing interfaces, we quickly learned there was much room for improvement in this space, and we're [excited about its future](/thinking/symbolset-next).
+
+In 2013 we launched a content management system called [Siteleaf](http://www.siteleaf.com), and re-launched with a new [v2](http://www.siteleaf.com/blog/v2/) just a couple weeks ago. Continuing the trend, Siteleaf was also built to scratch our itch. We made enough websites for clients to know most CMS backends were overkill for the average website. Siteleaf is a static website generator built on Jekyll and made for a better web.
+
+* * *
+
+Creating products is hard work, but over the years each have grown to find passionate audiences. They have also attracted the attention of investors and companies looking to make their next acqui-hire. 
+
+In a moment of weakness, we once found ourselves in a hotel boardroom with a catered breakfast bar and a table full of suit-wearing executives. They gave us a multi-million dollar offer to join their team. 
+
+For many people this would’ve been a dream exit, but for us the decision couldn’t have been clearer as the conversation drifted away from our products and dreams to theirs. We ended up walking away, and I’m still proud of that moment.
+
+Over the years, our vision of what Oak is has become clearer, and this experience certainly helped. 
+
+With Oak 2.0, we’ve taken steps to be more product focused and continue building our ideas into self-sustaining products. We love calling our own shots, care deeply about building things that matter, and are proud to be 100% bootstrapped. We're not into exit plans, products that gamify users, or using unethical dark patterns to squeeze a profit. Can we make the products we want and focus on the user first, while still making profit?
+
+Like everything else in Oak’s history, **let’s ship it and find out!**
+
+To commemorate the launch of Oak 2.0, I'm also excited to announce that Sawyer Hollenshead, who originally started with Oak in 2012, is joining me as co-founder. We have a lot of big ideas on where we want to take Oak, so this is only the beginning. 
+
+As you might've also noticed, we have a [brand new website](/) that better reflects who we are and where we're going. We hope you like it :)
+
+Excitement!
+
+— Skylar
+
+p.s. we are [growing our team](/hiring) in Brooklyn. If you’re into what we’re doing, we’d love to meet you!
+
+
+[^team]: Shoutout to all Oak people past and present who helped us get here: Justin, Ethan, Larry, Mike, Jonnie, Alonzo, and Adam. You've taught me that people are a company's most valuable assets.
+
+[^newsletter]: If you are interested in reading more about stuff like this, subscribe to our newsletter below!

@@ -1,0 +1,102 @@
+---
+theme: siteleaf-base
+title: Oak Studios
+timezone: America/New_York
+collections:
+  blog_tags:
+    title: Blog Tags
+    output: true
+  building:
+    title: Building
+    output: false
+  helping:
+    title: Helping
+    output: true
+  hiring:
+    title: Hiring
+    output: true
+    summary_body: |-
+      Oak is an independent design-led product studio in Brooklyn, New York. We make creative products like [Dropmark](http://www.dropmark.com) and [Siteleaf](http://www.siteleaf.com), and work on a number of [other ventures](/building).  As a team we enjoy blurring the lines of design and engineering, and encourage cross-disciplinary collaboration as much as possible.
+
+      Read more about us on our [About](/about/) page.
+
+      While New York is preferred, we may consider remote for the right person. We are an equal opportunity team and value diversity at our company. Let's be awesome together!
+
+      ### Sound like you?
+
+      Send an email to [team@oakmade.com](mailto:team@oakmade.com) with the position you're applying for and introduce yourself.
+  people:
+    title: People
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    image:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/thinking/:title/"
+    layout: post
+    description:
+    tags:
+    hero:
+    fg_color:
+    bg_color:
+- scope:
+    path: ''
+    type: helping
+  values:
+    permalink: "/helping/:title/"
+    layout: post
+    description:
+    tags:
+    hero:
+    fg_color:
+    bg_color:
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    permalink: "/thinking/tags/:title/"
+    layout: post
+- scope:
+    path: ''
+    type: hiring
+  values:
+    layout: post
+    location: Brooklyn, NY
+url: http://oak.is
+description: Oak Studios builds creative digital products like Dropmark and Siteleaf,
+  invests in new ideas, and helps companies innovate.
+permalink: pretty
+exclude:
+- Gruntfile.js
+- Gemfile
+- Gemfile.lock
+- package.json
+- README*
+- node_modules
+- ".gitignore"
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
+excerpt_separator: |2+
+sass:
+  sass_dir: assets/css/
+  style: compressed
+twitter:
+  username: oakstudios
+logo: "/assets/images/avatar.png"
+repository: oakstudios/oak
+google_analytics: UA-1666437-11
+date_format: "%b %d"
