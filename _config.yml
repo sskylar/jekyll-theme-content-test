@@ -86,7 +86,6 @@ exclude:
 - ".gitignore"
 gems:
 - jekyll-seo-tag
-- jekyll-sitemap
 - jekyll-feed
 - jekyll-redirect-from
 excerpt_separator: 
