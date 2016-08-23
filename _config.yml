@@ -88,6 +88,7 @@ gems:
 - jekyll-seo-tag
 - jekyll-feed
 - jekyll-redirect-from
+- jekyll-sitemap
 excerpt_separator: 
 sass:
   sass_dir: assets/css/
