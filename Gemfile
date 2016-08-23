@@ -1,7 +1,3 @@
 source 'https://rubygems.org'
-gem 'jekyll'
+gem 'github-pages'
 gem 'siteleaf-base', github: 'sawyerh/jekyll-theme-test'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
-gem 'jekyll-feed'
-gem 'jekyll-redirect-from'
