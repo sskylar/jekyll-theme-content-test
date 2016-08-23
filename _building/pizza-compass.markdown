@@ -4,8 +4,10 @@ date: 2013-05-07 00:00:00 -04:00
 position: 4
 link: http://pizza-compass.com
 description: Helping pizza get to your mouth.
-summary: |
-  Using geolocation and the Foursquare API to direct you to the closest pizza place near you. Explore a map or spin a compass to discover pizza all around you.
+summary: 'Using geolocation and the Foursquare API to direct you to the closest pizza
+  place near you. Explore a map or spin a compass to discover pizza all around you.
+
+'
 ---
 
 Oak teamed up with [Dan Blackman](http://danblackman.com) to create the iPhone app some people might say "...is the most important app ever made."
