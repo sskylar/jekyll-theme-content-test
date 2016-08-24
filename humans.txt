@@ -1,0 +1,104 @@
+ ______  ______  __  __
+/\  __ \/\  __ \/\ \/ /
+\ \ \/\ \ \  __ \ \  _"-.
+ \ \_____\ \_\ \_\ \_\ \_\
+  \/_____/\/_/\/_/\/_/\/_/
+
+The team, technology & tools behind this site.
+
+
+OAK TEAM
+--------
+
+Made with love in Brooklyn.
+
+Skylar Challand
+Content, design & development
+@sskylar
+
+Sawyer Hollenshead
+Content, design & development
+@sawyerh
+
+Justin Jay Wang
+Content, design & development
+@justinjaywang
+
+Ethan Turkeltaub
+Swag development
+@ethnt
+
+
+SPECIAL THANKS
+--------------
+
+Larry Fox
+Mike Fortress
+Jonnie Hallman
+Alonzo Felix
+Adam Spooner
+Haoyan Zhang
+Alan Rice
+Nick Calabro
+Natalie Uduwela
+Nick Beattie
+Leo Mancini
+
+
+TECHNOLOGY
+----------
+
+Siteleaf - Content management system
+siteleaf.com
+
+Jekyll - Static site generator
+jekyllrb.com
+
+Sass - CSS pre-processor
+sass-lang.com
+
+Liquid - Templating
+shopify.github.io/liquid
+
+Grunt - Task automation
+gruntjs.com
+
+GitHub - Code collaboration & hosting
+github.com
+
+Forecast API - Weather for /about page
+forecast.io
+
+JavaScript libraries include:
+jQuery, FitVids.js, Moment.js
+
+
+TOOLS
+-----
+
+Sublime Text - Text editor
+sublimetext.com
+
+Sketch - Graphics editor
+sketchapp.com
+
+Illustrator & Photoshop - Graphics editor
+adobe.com
+
+Slack - Emojis and GIFs
+slack.com
+
+Dropmark - Visual knowledge base
+dropmark.com
+
+
+FONTS
+-----
+
+Input Mono
+by David Jonathan Ross
+input.fontbureau.com
+
+Tiempos Headline
+by Kris Sowersby
+klim.co.nz

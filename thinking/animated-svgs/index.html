@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Begin Jekyll SEO tag v2.0.0 -->
+<title>Animated SVGs: Custom easing and timing - Oak Studios</title>
+<meta property="og:title" content="Animated SVGs: Custom easing and timing" />
+<meta name="description" content="" />
+<meta property="og:description" content="" />
+<link rel="canonical" href="http://oak.is/thinking/animated-svgs/" />
+<meta property="og:url" content="http://oak.is/thinking/animated-svgs/" />
+<meta property="og:site_name" content="Oak Studios" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2013-11-22T13:21:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@oakstudios" />
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Animated SVGs: Custom easing and timing",
+    "datePublished": "2013-11-22T13:21:00-05:00",
+    "description": "",
+    "logo": "http://oak.is/assets/images/avatar.png",
+    "url": "http://oak.is/thinking/animated-svgs/"
+  }
+</script>
+<!-- End Jekyll SEO tag -->
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <link href="/css/styles.css" rel="stylesheet" media="all" type="text/css" />
+  </head>
+  <body class="layout--post">
+    <a class="skip-to-main" href="#main">Skip to main content</a>
+
+    <header class="header wrap">
+      <h1 class="header__title">
+        <a href="/" class="header__title__link">Oak Studios</a>
+      </h1>
+      <nav class="header__nav">
+        
+          
+            <a href="/404.html" class="header__nav__link">404</a>
+          
+        
+          
+            <a href="/about/" class="header__nav__link">About</a>
+          
+        
+          
+        
+          
+            <a href="/thinking/archive/" class="header__nav__link">Archive</a>
+          
+        
+          
+            <a href="/building/" class="header__nav__link">Ventures</a>
+          
+        
+          
+            <a href="/helping/" class="header__nav__link">Consulting</a>
+          
+        
+          
+            <a href="/hiring/" class="header__nav__link">Join our team</a>
+          
+        
+          
+            <a href="/" class="header__nav__link">Oak Studios</a>
+          
+        
+          
+            <a href="/rss/index.html" class="header__nav__link">RSS</a>
+          
+        
+          
+        
+          
+            <a href="/thinking/" class="header__nav__link">Blog</a>
+          
+        
+          
+        
+          
+        
+      </nav>
+    </header>
+
+    <main class="main wrap" id="main">
+      <article class="article">
+  
+
+  posts
+
+  
+    <h1 class="article__title">Animated SVGs: Custom easing and timing</h1>
+  
+
+  <div class="article__content">
+    <p class="wide fill"><img src="/uploads/animated-svg-ff.svg" alt="" /></p>
+
+<p>The chart above is an animated SVG featured on <a href="http://sprout.is/">Sprout</a>.</p>
+
+<p>This chart, and one other animation on Sprout, were initially GIFs. By using animated SVGs instead of GIFs we were able to reduce our page size <strong>from 1.6 mb to 389 kb</strong>, and reduce our page load time <strong>from 8.75 s to 412 ms</strong>. That’s a huge difference.</p>
+
+<p>Below, I’ll break down the animation of one of the circles seen in the chart. The technique applies to all of the elements in the graphic. With this you can create your own lightweight animated graphic.</p>
+
+<h3 id="open-your-shape">Open your shape</h3>
+
+<p>If you created your shape with a vector program, it’ll likely be self-closing:</p>
+
+<pre><code class="language-svg">&lt;circle /&gt;
+</code></pre>
+
+<p>Open it up and include an  <code class="highlighter-rouge">animate</code><a href="http://www.w3.org/TR/SVG/animate.html#AnimateElement">ˆ</a> element inside:</p>
+
+<pre><code class="language-svg">&lt;circle&gt;
+    &lt;animate /&gt;
+&lt;/circle&gt;
+</code></pre>
+
+<p>Our circle looks like this. Each of the properties I walk through below apply within the <code class="highlighter-rouge">animate</code> tag:</p>
+
+<pre><code class="language-svg">&lt;circle fill="#FFFFFF" stroke="#B450FF" stroke-width="6" stroke-miterlimit="10" cx="153" cy="127" r="6"&gt;
+    &lt;animate
+</code></pre>
+
+<h3 id="select-an-attribute">Select an attribute</h3>
+
+<p>The <code class="highlighter-rouge">attributeName</code><a href="http://www.w3.org/TR/SVG/animate.html#AttributeNameAttribute">ˆ</a> is the attribute that we’ve chosen to animate. This could be opacity, stroke-width, width, or a number of others. We’ve chosen to use <code class="highlighter-rouge">cy</code>, it refers to the y position at the center of our circle.</p>
+
+<pre><code class="language-svg">        attributeName="cy"
+</code></pre>
+
+<h3 id="from-and-to-positions">From and To positions</h3>
+
+<p>Our <code class="highlighter-rouge">from</code> and <code class="highlighter-rouge">to</code><a href="http://www.w3.org/TR/SVG/animate.html#FromAttribute">ˆ</a> properties tell the shape where to start and end (in terms of the attribute we’re animating). I want this animation to loop seamlessly so the <code class="highlighter-rouge">from</code> and <code class="highlighter-rouge">to</code> are the same value. (Note: These are the same as the <code class="highlighter-rouge">cy</code> in my <code class="highlighter-rouge">circle</code> element!)</p>
+
+<pre><code class="language-svg">        from="127"
+        to="127"
+</code></pre>
+
+<h3 id="set-a-begin-time-and-duration">Set a Begin time and Duration</h3>
+
+<p>We can set an initial delay for the animation with the <code class="highlighter-rouge">begin</code><a href="http://www.w3.org/TR/SVG/animate.html#BeginAttribute">ˆ</a> property. Ain’t nobody got time for that so I set it to <code class="highlighter-rouge">0</code>. The overall duration of the animation is set with the <code class="highlighter-rouge">dur</code><a href="http://www.w3.org/TR/SVG/animate.html#DurAttribute">ˆ</a> property.</p>
+
+<pre><code class="language-svg">        begin="0s"
+        dur="4s"
+</code></pre>
+
+<h3 id="setting-values">Setting Values</h3>
+
+<p>These <code class="highlighter-rouge">values</code><a href="http://www.w3.org/TR/SVG/animate.html#ValuesAttribute">ˆ</a> refer to the attribute that we’re animating. Because we set our <code class="highlighter-rouge">attributeName</code> to <code class="highlighter-rouge">cy</code> above, these are the <code class="highlighter-rouge">cy</code> positions.
+There are 3 positions this circle will take in the animation (at 127, 117, and 90 units). We repeat those values so the circle will pause (though really it’s just animating to the same position). The 7th value completes the last pause and ends our loop.</p>
+
+<pre><code class="language-svg">        values="127;117;117;90;90;127;127"
+</code></pre>
+
+<p>Notice that the last values match the first value, and that those match our <code class="highlighter-rouge">from</code> and <code class="highlighter-rouge">to</code> values.</p>
+
+<p><em>Aside: Using duplicate values is one method for inserting a pause in an animation. Another, probably more proper method, is to create separate <code class="highlighter-rouge">animate</code> elements for each of the movements and daisychain them together with ids, .end<a href="http://www.w3.org/TR/SVG/animate.html#EndAttribute">ˆ</a>, and an offset value. I used the duplicate values instead to reduce the number of elements in my SVG.</em></p>
+
+<h3 id="easing-the-transition">Easing the transition</h3>
+
+<p>The <code class="highlighter-rouge">keySplines</code><a href="http://www.w3.org/TR/SVG/animate.html#KeySplinesAttribute">ˆ</a> describe the easing method, just like the <a href="http://cubic-bezier.com/#.1,.8,.2,1">cubic Bézier easing</a> method in CSS transitions.</p>
+
+<pre><code class="language-svg">        keySplines="
+            0.1 0.8 0.2 1; 
+            0.1 0.8 0.2 1; 
+            0.1 0.8 0.2 1; 
+            0.1 0.8 0.2 1; 
+            0.1 0.8 0.2 1; 
+            0.1 0.8 0.2 1" 
+</code></pre>
+
+<p>The 4 values on each line are coordinates for the handles describing the easing curve. I find it easiest to first visualize this with a vector drawing:</p>
+
+<p><img src="/uploads/keysplines-ff.svg" alt="" /></p>
+
+<p>Without easing our animation looks mechanical. With easing can simulate momentum and breathe life into it.</p>
+
+<p><img src="/uploads/ease-ff.svg" alt="" /></p>
+
+<p><em>Aside: The spec for keySplines<a href="http://www.w3.org/TR/SVG/animate.html#KeySplinesAttribute">ˆ</a> requires these values to be between 0 and 1. Initially we had a bounce effect (below) (with values 0.4 1.6 0.8 0.8) but the effect has an out-of-range value. While this works beautifully in Webkit, the animation breaks in Firefox. (The overshoot and turnback in the resulting Bézier curve are what give the circle its bounce)</em></p>
+
+<p><img src="/uploads/ease.svg" alt="" /></p>
+
+<p>Because we have 6 transitions, 3 times that the circle moves to a new position and 3 times that it moves to its current position (the pause), we list 6 keySplines, separated by semicolons. You can use different values for each transition too.</p>
+
+<h3 id="frames">Frames</h3>
+
+<p>Our <code class="highlighter-rouge">keyTimes</code><a href="http://www.w3.org/TR/SVG/animate.html#KeyTimesAttribute">ˆ</a> set the pace of our keyframes.</p>
+
+<pre><code class="language-svg">        keyTimes="0;0.22;0.33;0.55;0.66;0.88;1" 
+</code></pre>
+
+<p>These times coordinate with our <code class="highlighter-rouge">values</code>. I wanted the movements to take twice as long as the pauses so I gave about 0.22 units to the movements and about 0.11 units to the pauses. Putting that together with the values it looks like:</p>
+
+<p><img src="/uploads/values-keytimes.svg" alt="" /></p>
+
+<p>With even pacing the circle pauses and moves for equal amounts of time.</p>
+
+<p>With our custom pacing I offset the pausing and moving to give the movement more time to play out. These shorter pauses make the animation feel snappy in the right places.</p>
+
+<p><img src="/uploads/keytimes-ff.svg" alt="" /></p>
+
+<h3 id="calcmode">calcMode</h3>
+
+<p>The <code class="highlighter-rouge">calcMode</code><a href="http://www.w3.org/TR/SVG/animate.html#CalcModeAttribute">ˆ</a> attribute tells the animation how to transition between values. The <code class="highlighter-rouge">spline</code> values refers to the cubic Bézier easing method we wrote above.</p>
+
+<pre><code class="language-svg">        calcMode="spline"
+</code></pre>
+
+<h3 id="looping-and-ending">Looping and ending</h3>
+
+<p>We set our <code class="highlighter-rouge">repeatCount</code><a href="http://www.w3.org/TR/SVG/animate.html#RepeatCountAttribute">ˆ</a> to <code class="highlighter-rouge">indefinite</code> so that our animation loops.</p>
+
+<pre><code class="language-svg">        repeatCount="indefinite"
+    /&gt;
+&lt;/circle&gt;
+</code></pre>
+
+<p>Finally, we close our <code class="highlighter-rouge">animate</code> element and our <code class="highlighter-rouge">circle</code> element.</p>
+
+<h3 id="putting-it-all-together">Putting it all together</h3>
+
+<p>Putting it all together we get:</p>
+
+<pre><code class="language-svg">&lt;circle fill="#FFFFFF" stroke="#B450FF" stroke-width="6" stroke-miterlimit="10" cx="153" cy="127" r="6"&gt;
+	&lt;animate
+		attributeName="cy"
+		from="127"
+		to="127"
+		begin="0s"
+		dur="4s"
+		values="127;117;117;90;90;127;127"
+		keySplines="
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1" 
+		keyTimes="
+			0;0.22;0.33;0.55;0.66;0.88;1" 
+		calcMode="spline"
+		repeatCount="indefinite"
+	/&gt;
+&lt;/circle&gt;
+</code></pre>
+
+<h3 id="outro">Outro</h3>
+
+<p>All elements in the chart use this same method. This technique works for the lines also. With the circles we’re animating the <code class="highlighter-rouge">cy</code> position. With each of the lines we animated the <code class="highlighter-rouge">y1</code> and <code class="highlighter-rouge">y2</code> positions (two separate <code class="highlighter-rouge">animate</code> elements).</p>
+
+<p>We chose to use animated SVGs instead of embedded videos or animated GIFs to reduce page size and load time. Our final chart animation weighed in at just 15 kb. There are JavaScript libraries available for animating SVGs but we avoided them because they aren’t as light or agile as a pure SVG animation.</p>
+
+<p>Writing our animation by hand ultimately gave us a better understanding of how they work.</p>
+
+<p><img src="/uploads/animated-svg-ff.svg" alt="" /></p>
+
+<p><strong>Additional resources:</strong></p>
+
+<ul>
+  <li><a href="http://www.w3.org/TR/SVG/animate.html">SVG Animate element spec</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL">Mozilla: SVG animation with SMIL</a></li>
+  <li><a href="http://caniuse.com/svg">Can I Use: SVGs</a></li>
+  <li><a href="http://caniuse.com/#feat=svg-smil">Can I Use: SVG SMIL Animation</a></li>
+</ul>
+
+  </div>
+</article>
+    </main>
+
+    <footer class="footer wrap">
+      Built on <a href="https://jekyllrb.com">Jekyll</a> &bull; Theme by <a href="http://www.siteleaf.com/">Siteleaf</a>
+    </footer>
+  </body>
+</html>

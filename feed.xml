@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="http://oak.is/feed.xml" rel="self" type="application/atom+xml" /><link href="http://oak.is/" rel="alternate" type="text/html" /><updated>2016-08-24T14:15:50-04:00</updated><id>http://oak.is/</id><title>Oak Studios</title><subtitle>Oak Studios builds creative digital products like Dropmark and Siteleaf, invests in new ideas, and helps companies innovate.</subtitle><entry><title>Oak 2.0</title><link href="http://oak.is/thinking/2.0/" rel="alternate" type="text/html" title="Oak 2.0" /><published>2016-07-06T09:00:00-04:00</published><updated>2016-07-06T09:00:00-04:00</updated><id>http://oak.is/thinking/2.0</id><content type="html" xml:base="http://oak.is/thinking/2.0/">&lt;p&gt;Oak was born in 2008. For the first few years it was barely a company, just myself and one client. It wasn’t until 2010 that I nervously hired my first employee and began on the path that would ultimately lead us to today.&lt;/p&gt;
+
+&lt;p&gt;For most of Oak’s existence we’ve been a client-oriented web design shop. This began primarily out of necessity, but thanks to our amazing team&lt;sup id=&quot;fnref:team&quot;&gt;&lt;a href=&quot;#fn:team&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, we’ve done a &lt;a href=&quot;/helping&quot;&gt;mighty fine job&lt;/a&gt; of it.&lt;/p&gt;
+
+&lt;p&gt;Here are just a few highlights so far:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 2011, Craig Shapiro and Zach Frechette came to us with an idea. We worked to name, brand, and launch what became &lt;a href=&quot;http://quarterly.co&quot;&gt;Quarterly.co&lt;/a&gt;, growing them to a point where they could &lt;a href=&quot;https://techcrunch.com/2012/03/29/quarterly-series-a/&quot;&gt;raise funding&lt;/a&gt; and hire an in-house team (we loved the idea so much, we decided to &lt;a href=&quot;/building&quot;&gt;invest&lt;/a&gt; ourselves).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We repeated this success in 2012 with &lt;a href=&quot;http://workingnotworking.com&quot;&gt;Working Not Working&lt;/a&gt;, helping Justin Gignac and Adam Tompkins grow an idea into a platform that connects freelancers with companies that want to hire them. WNW was able to also &lt;a href=&quot;http://adage.com/article/agency-news/working-working-funding-droga5-airbnb/300064/&quot;&gt;raise funding&lt;/a&gt; and transition to an in-house team, the definition of success to us. This project also earned us our first Webby award.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In 2014 we were &lt;a href=&quot;/thinking/net-awards/&quot;&gt;nominated for Agency of the Year&lt;/a&gt; by the Net Awards. We didn’t win, but it was still pretty cool to be nominated alongside legit agencies we look up to.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In late 2014, we spent 2 months working alongside the in-house team at &lt;a href=&quot;/helping/facebook&quot;&gt;Facebook&lt;/a&gt;. We did some quality work, while getting a rare insider look at how a company at that scale operates. Especially interesting in contrast to our 4-person team.&lt;sup id=&quot;fnref:newsletter&quot;&gt;&lt;a href=&quot;#fn:newsletter&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;These projects have been rewarding, but alongside working with clients, we’ve also been lucky enough to launch our very own products.&lt;/p&gt;
+
+&lt;p&gt;First in 2011, we launched &lt;a href=&quot;http://www.dropmark.com&quot;&gt;Dropmark&lt;/a&gt; as a collaborative tool for visual organization and bookmarking. Working on projects with clients, we constantly found ourselves wanting to grab a handful of images or links and share them (inspiration, comps, etc) so we built Dropmark to serve this purpose. We wanted it to be simple, somewhere you could just toss a couple things and get a link back without much fuss. It’s come a long way since this &lt;a href=&quot;https://vimeo.com/20635463&quot;&gt;rather embarrassing&lt;/a&gt; launch video. Dropmark is now on the web, Mac OS X, and soon iOS (&lt;a href=&quot;https://dropmark.typeform.com/to/jTbcNs&quot;&gt;now in beta&lt;/a&gt;!).&lt;/p&gt;
+
+&lt;p&gt;In 2012 we launched our second product &lt;a href=&quot;http://symbolset.com&quot;&gt;Symbolset&lt;/a&gt;, built to bring semantics and meaning to icons. Designing interfaces, we quickly learned there was much room for improvement in this space, and we’re &lt;a href=&quot;/thinking/symbolset-next&quot;&gt;excited about its future&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In 2013 we launched a content management system called &lt;a href=&quot;http://www.siteleaf.com&quot;&gt;Siteleaf&lt;/a&gt;, and re-launched with a new &lt;a href=&quot;http://www.siteleaf.com/blog/v2/&quot;&gt;v2&lt;/a&gt; just a couple weeks ago. Continuing the trend, Siteleaf was also built to scratch our itch. We made enough websites for clients to know most CMS backends were overkill for the average website. Siteleaf is a static website generator built on Jekyll and made for a better web.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Creating products is hard work, but over the years each have grown to find passionate audiences. They have also attracted the attention of investors and companies looking to make their next acqui-hire.&lt;/p&gt;
+
+&lt;p&gt;In a moment of weakness, we once found ourselves in a hotel boardroom with a catered breakfast bar and a table full of suit-wearing executives. They gave us a multi-million dollar offer to join their team.&lt;/p&gt;
+
+&lt;p&gt;For many people this would’ve been a dream exit, but for us the decision couldn’t have been clearer as the conversation drifted away from our products and dreams to theirs. We ended up walking away, and I’m still proud of that moment.&lt;/p&gt;
+
+&lt;p&gt;Over the years, our vision of what Oak is has become clearer, and this experience certainly helped.&lt;/p&gt;
+
+&lt;p&gt;With Oak 2.0, we’ve taken steps to be more product focused and continue building our ideas into self-sustaining products. We love calling our own shots, care deeply about building things that matter, and are proud to be 100% bootstrapped. We’re not into exit plans, products that gamify users, or using unethical dark patterns to squeeze a profit. Can we make the products we want and focus on the user first, while still making profit?&lt;/p&gt;
+
+&lt;p&gt;Like everything else in Oak’s history, &lt;strong&gt;let’s ship it and find out!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To commemorate the launch of Oak 2.0, I’m also excited to announce that Sawyer Hollenshead, who originally started with Oak in 2012, is joining me as co-founder. We have a lot of big ideas on where we want to take Oak, so this is only the beginning.&lt;/p&gt;
+
+&lt;p&gt;As you might’ve also noticed, we have a &lt;a href=&quot;/&quot;&gt;brand new website&lt;/a&gt; that better reflects who we are and where we’re going. We hope you like it :)&lt;/p&gt;
+
+&lt;p&gt;Excitement!&lt;/p&gt;
+
+&lt;p&gt;— Skylar&lt;/p&gt;
+
+&lt;p&gt;p.s. we are &lt;a href=&quot;/hiring&quot;&gt;growing our team&lt;/a&gt; in Brooklyn. If you’re into what we’re doing, we’d love to meet you!&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:team&quot;&gt;
+      &lt;p&gt;Shoutout to all Oak people past and present who helped us get here: Justin, Ethan, Larry, Mike, Jonnie, Alonzo, and Adam. You’ve taught me that people are a company’s most valuable assets. &lt;a href=&quot;#fnref:team&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:newsletter&quot;&gt;
+      &lt;p&gt;If you are interested in reading more about stuff like this, subscribe to our newsletter below! &lt;a href=&quot;#fnref:newsletter&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="Announcement" /><summary>Oak was born in 2008. For the first few years it was barely a company, just myself and one client. It wasn’t until 2010 that I nervously hired my first employee and began on the path that would ultimately lead us to today.</summary></entry><entry><title>What’s next for Symbolset</title><link href="http://oak.is/thinking/symbolset-next/" rel="alternate" type="text/html" title="What’s next for Symbolset" /><published>2016-07-06T08:59:00-04:00</published><updated>2016-07-06T08:59:00-04:00</updated><id>http://oak.is/thinking/symbolset-next</id><content type="html" xml:base="http://oak.is/thinking/symbolset-next/">&lt;p&gt;Symbols have played a vital part in human communication for around 40,000 years&lt;sup id=&quot;fnref:40k&quot;&gt;&lt;a href=&quot;#fn:40k&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. From early &lt;a href=&quot;https://en.wikipedia.org/wiki/Cave_painting&quot;&gt;cave paintings&lt;/a&gt;, carved &lt;a href=&quot;https://en.wikipedia.org/wiki/Egyptian_hieroglyphs&quot;&gt;hieroglyphs&lt;/a&gt;, and eventually to &lt;a href=&quot;https://en.wikipedia.org/wiki/DOT_pictograms&quot;&gt;modern pictograms&lt;/a&gt; as seen and recognized in every restroom and airport.&lt;/p&gt;
+
+&lt;p&gt;Symbols break down language barriers, and allow us to communicate more efficiently.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/symbolset-dot.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caption&quot;&gt;U.S. Department of Transportation pictograms, 1974&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://symbolset.com&quot;&gt;Symbolset&lt;/a&gt; is a platform for making symbols semantic and accessible, returning iconography to its roots as a communication device.&lt;/p&gt;
+
+&lt;p&gt;This is the story of why we built Symbolset at Oak, why icon fonts matter now more than ever, and what’s next for Symbolset as a product.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/42300865&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozalowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;caption&quot;&gt;Symbolset teaser, 2012&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It was 2011, and the state of stock icons for user interface design was pretty bleak. At Oak, choosing icons for a client project typically meant wasting hours sifting through folders of crudely drawn vector files, bringing these into Photoshop to apply snazzy emboss effects&lt;sup id=&quot;fnref:emboss&quot;&gt;&lt;a href=&quot;#fn:emboss&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and exporting these as PNGs. If you are someone like our designer Mike Fortress, you also spend time cleaning up stray points in Illustrator and reconciling inconsistencies between icons.&lt;/p&gt;
+
+&lt;p&gt;This repetitive process had Mike thinking about designing his own set of icons. As he was already dabbling in typeface design, he aimed to create a well-crafted set of icons drawn with the sensibility and discipline of a cohesive typeface. In fact, why not make it a typeface? That’s a thing, right?&lt;/p&gt;
+
+&lt;h2 id=&quot;icon-fonts&quot;&gt;Icon fonts&lt;/h2&gt;
+
+&lt;p&gt;Symbol fonts are not a new concept. They have been used throughout the history of the printing press, sold and used alongside type as ornaments, and commonly referred to as &lt;a href=&quot;https://en.wikipedia.org/wiki/Dingbat&quot;&gt;dingbats&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For years our computers have shipped with common symbol fonts like &lt;a href=&quot;http://en.wikipedia.org/wiki/Zapf_Dingbats&quot;&gt;Zapf Dingbats&lt;/a&gt; (1978) which would eventually become &lt;a href=&quot;http://www.fileformat.info/info/unicode/block/dingbats/list.htm&quot;&gt;part&lt;/a&gt; of &lt;a href=&quot;http://unicode.org/standard/WhatIsUnicode.html&quot;&gt;Unicode&lt;/a&gt;; &lt;a href=&quot;http://en.wikipedia.org/wiki/Wingdings&quot;&gt;Wingdings&lt;/a&gt; (1990); and &lt;a href=&quot;http://en.wikipedia.org/wiki/Webdings&quot;&gt;Webdings&lt;/a&gt; (1997) designed by, among others, &lt;a href=&quot;http://connare.com/&quot;&gt;Vincent Connare&lt;/a&gt; of Comic Sans fame.&lt;/p&gt;
+
+&lt;p&gt;2011 was a hot year for webfonts, Adobe had just acquired Typekit. We saw people experimenting with putting user interface icons into webfonts. Interesting things were happening, but something wasn’t quite right.&lt;/p&gt;
+
+&lt;h2 id=&quot;made-with-k-in-nyc&quot;&gt;Made with k in NYC&lt;/h2&gt;
+
+&lt;p&gt;For years, &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo.com&lt;/a&gt; used one of the more popular icon fonts in their footer with the message “Made with ❤️ in NYC”. However, since this particular font mapped icons to A-Z characters, it actually said “Made with &lt;strong&gt;k&lt;/strong&gt; in NYC”. This is how Google and screen readers would have interpreted the icon, and it made us think.&lt;/p&gt;
+
+&lt;p&gt;We could do better.&lt;/p&gt;
+
+&lt;p&gt;With Symbolset, we aimed to make icons meaningful, easy, and accessible for both humans &lt;em&gt;and&lt;/em&gt; computers.&lt;/p&gt;
+
+&lt;p&gt;Our approach is three-fold:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Semantically map icons to Unicode standards. A heart should map to &lt;a href=&quot;http://www.fileformat.info/info/unicode/char/2764/index.htm&quot;&gt;U+2764&lt;/a&gt;, so a heart is a heart not a letter &lt;a href=&quot;http://www.fileformat.info/info/unicode/char/006b/index.htm&quot;&gt;k&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use OpenType ligature features to represent common terms in icon form while retaining screen reader accessibility (a heart can be read as “love” or “heart”).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Include CSS and JavaScript implementations for use on the modern web.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mapping our icons to standard Unicode values not only allowed us to be consistent across &lt;a href=&quot;https://symbolset.com/icons&quot;&gt;all sets&lt;/a&gt; we release, but be interoperable with other font vendors and platforms as well. Our dream was to allow designers to choose an icon font, use it in their layout, and easily swap between icon sets—just as you would with any text font. We’re still pretty happy with how that turned out.&lt;/p&gt;
+
+&lt;h2 id=&quot;now-more-than-ever&quot;&gt;Now more than ever&lt;/h2&gt;
+
+&lt;p&gt;Are icon fonts still relevant? While some party poopers have declared “&lt;a href=&quot;https://speakerdeck.com/ninjanails/death-to-icon-fonts&quot;&gt;death to icon fonts&lt;/a&gt;”, we think that’s a load of 💩 and icon fonts are absolutely the future.&lt;/p&gt;
+
+&lt;p&gt;One only has to look to &lt;a href=&quot;http://blog.symbolset.com/making-ss-emoji&quot;&gt;emoji&lt;/a&gt; and its incredible rise to see why icon fonts are ubiquitous and here to stay. Exactly like Symbolsets, emoji are icon fonts mapped semantically to Unicode values.&lt;/p&gt;
+
+&lt;p&gt;There are many emoji fonts, but &lt;a href=&quot;https://en.wikipedia.org/wiki/Apple_Color_Emoji&quot;&gt;Apple Color Emoji&lt;/a&gt; is probably the most well known. In a recent study, 92% of online consumers report using emoji&lt;sup id=&quot;fnref:stat&quot;&gt;&lt;a href=&quot;#fn:stat&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. That’s a lot of people using icon fonts every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/symbolset-ios10.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caption&quot;&gt;Apple’s upcoming iOS 10 features emoji prediction, reminiscent of Symbolset’s keyword functionality&lt;/p&gt;
+
+&lt;p&gt;A ⭐ or 🍔 written in emoji can be shown in Symbolset just the same. Unlike image formats like PNG or SVG, computers understand exactly what ⭐ or 🍔 means. Fonts work on any device with a display, and are future-proof in a way image formats can’t be. For as long as we have text, we’ll have fonts.&lt;sup id=&quot;fnref:text&quot;&gt;&lt;a href=&quot;#fn:text&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;With advancements in &lt;a href=&quot;http://blog.symbolset.com/multicolor-fonts&quot;&gt;multicolor fonts&lt;/a&gt;, we’re pretty excited about what’s to come.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-whats-next&quot;&gt;So what’s next&lt;/h2&gt;
+
+&lt;p&gt;There are so many things we haven’t accomplished with Symbolset yet.&lt;/p&gt;
+
+&lt;p&gt;We released 15 icon sets from 2012 to 2015, but like traditional typefaces, we think there’s room for infinite more. We believe icon sets should be chosen to reflect your design, and even pair with your typographic choices. Luckily, there are talented icon designers today pushing the craft forward (many of which we’ve been able to work with&lt;sup id=&quot;fnref:designers&quot;&gt;&lt;a href=&quot;#fn:designers&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+
+&lt;p&gt;In addition, we’ve always dreamed of working with the Unicode Consortium to create a block for common user interface icons, and open our icon mapping system to other vendors.&lt;/p&gt;
+
+&lt;p&gt;Hell, &lt;a href=&quot;https://design.google.com/icons/&quot;&gt;Google pretty much stole it&lt;/a&gt; anyway. They got the keywords mostly right, but unfortunately missed the point of Unicode (this is why we need standards!).&lt;/p&gt;
+
+&lt;p&gt;All of this is to say we have huge ambitions for Symbolset, but with our &lt;a href=&quot;/about&quot;&gt;small team&lt;/a&gt; and other &lt;a href=&quot;/products&quot;&gt;growing products&lt;/a&gt; we were unfortunately not able to dedicate enough resources to make it sustainable.&lt;/p&gt;
+
+&lt;p&gt;Still feeling passionate about growing Symbolset however, we reached out to everyone from established creative software companies, type foundries, young icon startups, and ultimately found a new home with our buddies at &lt;a href=&quot;https://fortawesome.com&quot;&gt;Fort Awesome&lt;/a&gt; (formerly Fonticons).&lt;/p&gt;
+
+&lt;p&gt;We knew Symbolset needed a team that is devoted 100% to solving icons, and we think these are the folks to do it. These are the same people who make &lt;a href=&quot;http://fontawesome.io&quot;&gt;Font Awesome&lt;/a&gt;, which is currently being used on an incredible 73 million websites. They’re &lt;a href=&quot;https://techcrunch.com/2015/07/22/yc-backed-fonticons-is-a-subscription-icon-service-from-the-creator-of-font-awesome/&quot;&gt;backed by Y-Combinator&lt;/a&gt; and have some exciting things planned for the future.&lt;/p&gt;
+
+&lt;p&gt;We’ll be honest, most acquisitions suck. Especially for users who get left behind while the founders run off on their &lt;a href=&quot;https://ourincrediblejourney.tumblr.com&quot;&gt;incredible journey&lt;/a&gt;. We didn’t take this lightly and very little money switched hands. We mostly were concerned with finding a team who could continue operating Symbolset as it is, and we worked hard to find the best possible fit for our users. As a user, you shouldn’t have to worry about any disruptions. But look forward to awesome stuff in the future!&lt;/p&gt;
+
+&lt;p&gt;To close, I thought I’d share our original &lt;a href=&quot;http://blog.symbolset.com/purpose&quot;&gt;Symbolset purpose&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make great icon design available to the world.&lt;/li&gt;
+  &lt;li&gt;Make icons semantic, meaningful, and accessible to humans and machines alike.&lt;/li&gt;
+  &lt;li&gt;Make icons easy to implement and technology-agnostic.&lt;/li&gt;
+  &lt;li&gt;Make icon design a viable profession for talented icon designers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We look forward to seeing Fort Awesome continue this mission, and make icon fonts great again.&lt;/p&gt;
+
+&lt;p&gt;Cheers to Dave, Travis, and the rest of the Fort Awesome team.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/symbolset-emoji-hearts.svg&quot; style=&quot;height:100px; width:100%&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:40k&quot;&gt;
+      &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Cave_painting&quot;&gt;Wikipedia&lt;/a&gt;. &lt;a href=&quot;#fnref:40k&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:emboss&quot;&gt;
+      &lt;p&gt;Hey, it was 2011. &lt;a href=&quot;#fnref:emboss&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:stat&quot;&gt;
+      &lt;p&gt;Via &lt;a href=&quot;http://www.adweek.com/socialtimes/report-92-of-online-consumers-use-emoji-infographic/627521&quot;&gt;AdWeek&lt;/a&gt;. &lt;a href=&quot;#fnref:stat&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:text&quot;&gt;
+      &lt;p&gt;Though at the rate emoji is growing, maybe we’ll be &lt;a href=&quot;http://www.emojidick.com&quot;&gt;reading paragraphs of symbols&lt;/a&gt; soon enough. &lt;a href=&quot;#fnref:text&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:designers&quot;&gt;
+      &lt;p&gt;Huge thanks to Mike Fortress and all our of Symbolset designers: Jory Raphael, Hemmo de Jonge, Joseph Wain, Brent Jackson, Kyle Steed, and Wen Ping Huang. &lt;a href=&quot;#fnref:designers&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><category term="Announcement" /><summary>Symbols have played a vital part in human communication for around 40,000 years1. From early cave paintings, carved hieroglyphs, and eventually to modern pictograms as seen and recognized in every restroom and airport.
+
+
+  
+    
+      According to Wikipedia. &amp;#8617;</summary></entry><entry><title>Shipped in 2015</title><link href="http://oak.is/thinking/2015/" rel="alternate" type="text/html" title="Shipped in 2015" /><published>2015-12-31T00:00:00-05:00</published><updated>2015-12-31T00:00:00-05:00</updated><id>http://oak.is/thinking/2015</id><content type="html" xml:base="http://oak.is/thinking/2015/">&lt;h2 id=&quot;in-2015-we&quot;&gt;In 2015 we…&lt;/h2&gt;
+
+&lt;p&gt;Introduced the world to the all-new &lt;a href=&quot;http://www.dropmark.com/blog/welcome-to-the-new-dropmark&quot;&gt;Dropmark v2&lt;/a&gt;, with a &lt;a href=&quot;http://www.dropmark.com/blog/explore-your-dashboard&quot;&gt;newly redesigned dashboard&lt;/a&gt;, &lt;a href=&quot;http://www.dropmark.com/blog/customize-your-collection/&quot;&gt;more customizations&lt;/a&gt;, &lt;a href=&quot;http://www.dropmark.com/blog/improved-thumbnails&quot;&gt;improved thumbnails&lt;/a&gt;, &lt;a href=&quot;http://www.dropmark.com/blog/cover-images&quot;&gt;cover images&lt;/a&gt;, and our biggest addition: Teams.&lt;/p&gt;
+
+&lt;p&gt;Worked with our friends at &lt;a href=&quot;http://www.wearecollins.com&quot;&gt;Collins&lt;/a&gt; and helped them launch a new website built on Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Moved our studio from DUMBO in Brooklyn (where we’ve been since 2010) to Union Square in Manhattan. After many years, Studiomates was closed after our building was sadly reconstructed into condos.&lt;/p&gt;
+
+&lt;p&gt;Added another new Symbolset, &lt;a href=&quot;http://blog.symbolset.com/new-set-ss-community&quot;&gt;SS Community&lt;/a&gt; designed by our friends at Hyperakt.&lt;/p&gt;
+
+&lt;p&gt;Once again worked with the &lt;a href=&quot;http://oak.is/helping/sva&quot;&gt;School of Visual Arts&lt;/a&gt; to release a new version of their iOS app, which we originally developed in 2013.&lt;/p&gt;
+
+&lt;p&gt;Designed a new website for the SVA Design &amp;amp; Advertising departments: &lt;a href=&quot;http://sva.design&quot;&gt;sva.design&lt;/a&gt; (our first use of the .design TLD)&lt;/p&gt;
+
+&lt;p&gt;Updated Dropmark’s &lt;a href=&quot;http://www.dropmark.com/blog/import&quot;&gt;import tool&lt;/a&gt; to support Pinterest, Delicious, Pocket, and more. Much was learned about the Netscape HTML Bookmark format, which somehow is still the standard.&lt;/p&gt;
+
+&lt;p&gt;Added a bunch of advanced liquid filters to Siteleaf including &lt;a href=&quot;http://www.siteleaf.com/blog/advanced-liquid-sort&quot;&gt;Sort&lt;/a&gt;, &lt;a href=&quot;http://www.siteleaf.com/blog/advanced-liquid-where&quot;&gt;Where&lt;/a&gt;, and &lt;a href=&quot;http://www.siteleaf.com/blog/advanced-liquid-group-by&quot;&gt;Group By&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Started a Dropmark interview series where we chatted with creative people and teams like &lt;a href=&quot;http://www.dropmark.com/blog/how-kelli-anderson-gets-things-done&quot;&gt;Kelli Anderson&lt;/a&gt;, &lt;a href=&quot;http://www.dropmark.com/blog/how-heath-ceramics-gets-things-done&quot;&gt;Heath Ceramics&lt;/a&gt; and &lt;a href=&quot;http://www.dropmark.com/blog/category/interview&quot;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://www.dropmark.com/blog/mentions&quot;&gt;@mentions&lt;/a&gt; and &lt;a href=&quot;http://www.dropmark.com/blog/search-with-tags&quot;&gt;#tags&lt;/a&gt; in Dropmark.&lt;/p&gt;
+
+&lt;p&gt;Made Dropmark even smarter with &lt;a href=&quot;http://www.dropmark.com/blog/add-location&quot;&gt;geolocation for items&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Added &lt;a href=&quot;http://www.dropmark.com/blog/image-annotations&quot;&gt;image annotations&lt;/a&gt; to Dropmark.&lt;/p&gt;
+
+&lt;p&gt;Continued our relationship with &lt;a href=&quot;https://creativemornings.com&quot;&gt;Creative Mornings&lt;/a&gt;, launching &lt;a href=&quot;https://creativemornings.com/podcast&quot;&gt;Podcasts&lt;/a&gt; and &lt;a href=&quot;https://creativemornings.com/fieldtrips&quot;&gt;FieldTrips&lt;/a&gt;, and helping them grow to 130k users in 130+ cities around the world.&lt;/p&gt;
+
+&lt;p&gt;Updated &lt;a href=&quot;http://www.dropmark.com/blog/capture-screenshots&quot;&gt;Dropmark for Mac&lt;/a&gt; to support screenshot capture.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://www.dropmark.com/blog/making-stacks-in-bulk&quot;&gt;bulk actions and stacks&lt;/a&gt; in Dropmark.&lt;/p&gt;
+
+&lt;p&gt;Introduced a &lt;a href=&quot;http://www.siteleaf.com/blog/publishing-via-the-api&quot;&gt;publish API&lt;/a&gt; for Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Continued our relationship with &lt;a href=&quot;http://workingnotworking.com&quot;&gt;Working Not Working&lt;/a&gt;, adding new features, building an iOS app, and helping them grow their internal team with their first full-time developer.&lt;/p&gt;
+
+&lt;p&gt;Worked with New York University Libraries to design a new website built on Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Drove upstate to New York’s &lt;a href=&quot;http://www.designsponge.com/2015/10/ulster-county-new-york-guide.html&quot;&gt;Ulster County&lt;/a&gt; for our annual Oakweek retreat. Toured a &lt;a href=&quot;http://hudsonwhiskey.com&quot;&gt;whiskey distillery&lt;/a&gt;, hiked at Mohonk Mountain House, enjoyed some unseasonably warm days, made s’mores, learned how to humanely catch mice (thanks &lt;a href=&quot;http://journal.chrisglass.com/2005/09/how_to_catch_a_.html&quot;&gt;Chris Glass&lt;/a&gt;), and laid the foundation for Siteleaf v2.&lt;/p&gt;
+
+&lt;p&gt;Gave users a sneak peek at what’s to come in &lt;a href=&quot;http://www.siteleaf.com/blog/v2-beta&quot;&gt;Siteleaf v2&lt;/a&gt; (we’ve been working hard on this for the past 6 months!).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Previously:&lt;/strong&gt; &lt;a href=&quot;/thinking/2014&quot;&gt;2014&lt;/a&gt; and &lt;a href=&quot;/thinking/2013&quot;&gt;2013&lt;/a&gt;&lt;/p&gt;</content><category term="Studio" /><summary>In 2015 we…</summary></entry><entry><title>Shipped in 2014</title><link href="http://oak.is/thinking/2014/" rel="alternate" type="text/html" title="Shipped in 2014" /><published>2014-12-31T00:00:00-05:00</published><updated>2014-12-31T00:00:00-05:00</updated><id>http://oak.is/thinking/2014</id><content type="html" xml:base="http://oak.is/thinking/2014/">&lt;h2 id=&quot;in-2014-we&quot;&gt;In 2014 we…&lt;/h2&gt;
+
+&lt;p&gt;Introduced 2 new Symbolsets: &lt;a href=&quot;http://blog.symbolset.com/new-set-ss-glyphish&quot;&gt;SS Glyphish&lt;/a&gt;
+ by Joseph Wain (which comes two complementary styles, Outlined and Filled) and &lt;a href=&quot;http://blog.symbolset.com/new-set-ss-elements&quot;&gt;SS Elements&lt;/a&gt; by Jory Raphael.
+Designed a new website for &lt;a href=&quot;http://www.collaborativefund.com&quot;&gt;Collaborative Fund&lt;/a&gt;, along with a refined logo and branding.&lt;/p&gt;
+
+&lt;p&gt;Worked with one of our favorite type designers, Tobias Frere-Jones to create his first website and blog for Frere-Jones Type.&lt;/p&gt;
+
+&lt;p&gt;Worked with &lt;a href=&quot;http://girlrising.com&quot;&gt;Girl Rising&lt;/a&gt;, a global campaign for girls’ education, to spread their message with a new website designed and built on Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Worked with the &lt;a href=&quot;http://oak.is/helping/sva&quot;&gt;School of Visual Arts&lt;/a&gt; to release a new version of their iOS app, which we originally developed in 2013.&lt;/p&gt;
+
+&lt;p&gt;Continued working with &lt;a href=&quot;https://creativemornings.com&quot;&gt;Creative Mornings&lt;/a&gt;
+ to expand the platform, improve the ticketing system, and make it easier to bring new chapters on board.&lt;/p&gt;
+
+&lt;p&gt;Designed a new e-commerce website for the American made clothing brand Flint and Tinder.&lt;/p&gt;
+
+&lt;p&gt;Updated &lt;a href=&quot;http://blog.symbolset.com/symbolicons-update&quot;&gt;SS Symbolicons&lt;/a&gt; and &lt;a href=&quot;http://blog.symbolset.com/new-symbols-in-social-1&quot;&gt;SS Social&lt;/a&gt; with hundreds of new icons.&lt;/p&gt;
+
+&lt;p&gt;Launched &lt;a href=&quot;http://typesetter.symbolset.com&quot;&gt;Typesetter&lt;/a&gt;, a handy, &lt;a href=&quot;https://github.com/symbolset/typesetter&quot;&gt;open source&lt;/a&gt; drag-and-drop tool for testing your fonts in the browser (&lt;a href=&quot;http://blog.symbolset.com/introducing-typesetter&quot;&gt;more info&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Experimented with &lt;a href=&quot;http://blog.symbolset.com/multicolor-fonts&quot;&gt;multicolor fonts&lt;/a&gt; and created &lt;a href=&quot;http://blog.symbolset.com/making-ss-emoji&quot;&gt;SS Emoji&lt;/a&gt;, releasing it as an open source beta on &lt;a href=&quot;https://github.com/symbolset/ss-emoji-beta&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Answered some questions for &lt;a href=&quot;http://www.hermanmiller.com/research/topics/all-topics/collaborative-spirit.html&quot;&gt;Herman Miller&lt;/a&gt; on collaboration and workspaces.&lt;/p&gt;
+
+&lt;p&gt;Built an &lt;a href=&quot;http://www.dropmark.com/blog/import-from-icebergs&quot;&gt;import tool for Dropmark&lt;/a&gt;, allowing Icebergs users to import their content after Pinterest acqui-hired and shut down the service (RIP).&lt;/p&gt;
+
+&lt;p&gt;Were &lt;a href=&quot;http://oak.is/thinking/net-awards&quot;&gt;nominated for Agency of the Year&lt;/a&gt; at the Net Awards. In addition, we were nominated for Redesign of the Year for our work on Creative Mornings, and our very own Sawyer Hollenshead was nominated for Young Designer of the Year.&lt;/p&gt;
+
+&lt;p&gt;Developed a new website for design and innovation consultancy &lt;a href=&quot;http://opnbx.com&quot;&gt;Openbox&lt;/a&gt;, built on Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Developed a new website for &lt;a href=&quot;http://mkshft.org&quot;&gt;Makeshift Magazine&lt;/a&gt; with responsive editorial layouts, video, e-commerce and more.&lt;/p&gt;
+
+&lt;p&gt;Gave &lt;a href=&quot;http://oak.is/thinking/net-magazine&quot;&gt;Net Magazine&lt;/a&gt; a tour of our workspace at Studiomates.&lt;/p&gt;
+
+&lt;p&gt;Were excited to have &lt;a href=&quot;http://oak.is/thinking/creativemornings-nominated-webby&quot;&gt;Creative Mornings&lt;/a&gt; nominated for a Webby Award.&lt;/p&gt;
+
+&lt;p&gt;Introduced the world to &lt;a href=&quot;http://secondssincetupac.com&quot;&gt;Seconds Since Tupac&lt;/a&gt; (or Tupac Time), not to be confused with Epoch Time. A joke that stemmed from an afternoon hack session, taken &lt;a href=&quot;http://oak.is/thinking/seconds-since-tupac&quot;&gt;way too far&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://www.siteleaf.com/blog/introducing-user-roles&quot;&gt;user roles&lt;/a&gt; in Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Added &lt;a href=&quot;http://www.siteleaf.com/blog/github-pages&quot;&gt;GitHub Pages&lt;/a&gt; and &lt;a href=&quot;http://www.siteleaf.com/blog/publish-to-sftp&quot;&gt;SFTP&lt;/a&gt; to our growing list of Siteleaf-supported web hosts.&lt;/p&gt;
+
+&lt;p&gt;Worked with Collins to develop a new website for &lt;a href=&quot;http://babyganics.com&quot;&gt;Babyganics&lt;/a&gt;, maker of modern healthy baby products.&lt;/p&gt;
+
+&lt;p&gt;Worked with our friends at &lt;a href=&quot;http://hyperakt.com&quot;&gt;Hyperakt&lt;/a&gt; to develop their new website.&lt;/p&gt;
+
+&lt;p&gt;Helped Font Bureau celebrate the work of its founder and recipient of the 2014 Type Directors Club medal, &lt;a href=&quot;http://davidberlow.fontbureau.com&quot;&gt;David Berlow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Worked with Spotify to design and code an upcoming brand guideline website, built on Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Were featured as &lt;a href=&quot;https://twitter.com/cameronmoll/status/524576682230169600&quot;&gt;How Magazine’s Designer Spotlight&lt;/a&gt; in their September issue.&lt;/p&gt;
+
+&lt;p&gt;Continued working with Working Not Working, helping them launch a bunch of new features including the &lt;a href=&quot;https://workingnotworking.com/jobs&quot;&gt;UnJobBoard&lt;/a&gt;
+ and a brand new &lt;a href=&quot;https://workingnotworking.com&quot;&gt;marketing site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://blog.symbolset.com/symbolset-for-brands&quot;&gt;Symbolset for Brands&lt;/a&gt; to offer custom icon design and technology, working with companies like Kickstarter, &lt;a href=&quot;http://blog.symbolset.com/sell-on-etsy&quot;&gt;Etsy&lt;/a&gt;, Salesforce, and Shopify.&lt;/p&gt;
+
+&lt;p&gt;Redesigned the &lt;a href=&quot;http://www.siteleaf.com/blog/improvements-to-page-and-post-management&quot;&gt;navigation UI&lt;/a&gt; to make page and post editing easier in Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Won a &lt;a href=&quot;https://www.tdc.org/competitionwriteup/tdc-communication-design-winners-2014/&quot;&gt;TDC Award&lt;/a&gt; for our work on the &lt;a href=&quot;http://vllg.com&quot;&gt;Village&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;p&gt;Spent a week relaxing and working in New York’s Adirondacks for our annual Oakweek retreat. Quality time kayaking, hiking, BBQing, hot tubbing, and planning for what’s to come.&lt;/p&gt;
+
+&lt;p&gt;Previewed the all new &lt;a href=&quot;http://www.dropmark.com/blog/beta-test-the-new-dropmark&quot;&gt;Dropmark v2 beta&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Worked with Facebook to redesign part of their iOS app, spending a week hacking with them in San Francisco.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Previously:&lt;/strong&gt; &lt;a href=&quot;/thinking/2013&quot;&gt;2013&lt;/a&gt;&lt;/p&gt;</content><category term="Studio" /><summary>In 2014 we…</summary></entry><entry><title>Seconds Since Tupac</title><link href="http://oak.is/thinking/seconds-since-tupac/" rel="alternate" type="text/html" title="Seconds Since Tupac" /><published>2014-06-16T10:03:00-04:00</published><updated>2014-06-16T10:03:00-04:00</updated><id>http://oak.is/thinking/seconds-since-tupac</id><content type="html" xml:base="http://oak.is/thinking/seconds-since-tupac/">&lt;p&gt;Introducing &lt;a href=&quot;http://secondssincetupac.com&quot;&gt;Seconds Since Tupac&lt;/a&gt; (Tupac Time), now available on &lt;a href=&quot;https://github.com/tupactime&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tupac Time (not to be confused with Epoch Time or &lt;a href=&quot;http://en.wikipedia.org/wiki/Unix_time&quot;&gt;Unix Time&lt;/a&gt;) is a system for describing instants in time, defined as the number of seconds that have elapsed since the death of rap legend &lt;a href=&quot;http://en.wikipedia.org/wiki/Tupac_Shakur&quot;&gt;Tupac Shakur&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tupac, also known by his stage name 2Pac, was pronounced dead on Friday, September 13, 1996 at 4:03 pm PDT (23:03 UTC). Today would’ve been his 43rd birthday.&lt;/p&gt;
+
+&lt;h2 id=&quot;conversion&quot;&gt;Conversion&lt;/h2&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;UTC&lt;/th&gt;
+&lt;th&gt;Epoch Time&lt;/th&gt;
+&lt;th&gt;Tupac Time&lt;/th&gt;
+&lt;th&gt;Notes&lt;/th&gt;
+&lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;1996-09-13 23:03:00&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;842655780&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;0&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Time of death&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2012-04-16 06:36:00&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;1334558160&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;491902380&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Hologram performs Coachella&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementations&quot;&gt;Implementations&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;JavaScript: &lt;a href=&quot;&quot;&gt;https://github.com/tupactime/tupac.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ruby: &lt;a href=&quot;&quot;&gt;https://github.com/tupactime/tupac.rb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more see &lt;a href=&quot;&quot;&gt;http://secondssincetupac.com&lt;/a&gt;&lt;/p&gt;</content><category term="Experiments" /><summary>Introducing Seconds Since Tupac (Tupac Time), now available on GitHub.</summary></entry><entry><title>On collaboration and chairs</title><link href="http://oak.is/thinking/herman-miller/" rel="alternate" type="text/html" title="On collaboration and chairs" /><published>2014-04-17T11:32:00-04:00</published><updated>2014-04-17T11:32:00-04:00</updated><id>http://oak.is/thinking/herman-miller</id><content type="html" xml:base="http://oak.is/thinking/herman-miller/">&lt;p class=&quot;wide&quot;&gt;&lt;img src=&quot;/uploads/hermanmiller.jpg&quot; alt=&quot;Photo via Herman Miller&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caption wide&quot;&gt;Photo via Herman Miller&lt;/p&gt;
+
+&lt;p&gt;I sat down with the friendly folks from Herman Miller to discuss how we used &lt;a href=&quot;http://dropmark.com&quot;&gt;Dropmark&lt;/a&gt; to select their &lt;a href=&quot;http://www.hermanmiller.com/products/seating/performance-work-chairs/sayl-chairs.html&quot;&gt;Sayl&lt;/a&gt; chairs for our studio, and why we enjoy our collaborative home at &lt;a href=&quot;http://studiomates.com&quot;&gt;Studiomates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Read the full interview at &lt;a href=&quot;http://www.hermanmiller.com/research/topics/all-topics/collaborative-spirit.html&quot;&gt;hermanmiller.com&lt;/a&gt;.&lt;/p&gt;</content><category term="Studio" /><summary></summary></entry><entry><title>CreativeMornings is nominated for a Webby</title><link href="http://oak.is/thinking/creativemornings-nominated-webby/" rel="alternate" type="text/html" title="CreativeMornings is nominated for a Webby" /><published>2014-04-14T09:51:00-04:00</published><updated>2014-04-14T09:51:00-04:00</updated><id>http://oak.is/thinking/creativemornings-nominated-webby</id><content type="html" xml:base="http://oak.is/thinking/creativemornings-nominated-webby/">&lt;p class=&quot;wide&quot;&gt;&lt;img src=&quot;/uploads/cm-webby.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re excited to find out &lt;a href=&quot;http://creativemornings.com&quot;&gt;CreativeMornings&lt;/a&gt; has been nominated for a &lt;a href=&quot;http://pv.webbyawards.com/2014/web/general-website/events&quot;&gt;Webby Award&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;CreativeMornings is a breakfast lecture series for the creative community in nearly 80 cities around the world. Last year Oak worked with CreativeMornings to &lt;a href=&quot;/helping/creativemornings&quot;&gt;design and launch&lt;/a&gt; the website which serves up hundreds of hours of video in a dozen languages. We continue to work with the CM team to expand the site and introduce exciting new features like &lt;a href=&quot;http://creativemornings.com/blog/new-profiles&quot;&gt;visual user profiles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Show your support and for for CreativeMornings for the &lt;a href=&quot;http://pv.webbyawards.com/2014/web/general-website/events&quot;&gt;People’s Voice&lt;/a&gt; award.&lt;/p&gt;</content><category term="Buzz" /><summary></summary></entry><entry><title>Net Magazine: Workspace tour</title><link href="http://oak.is/thinking/net-magazine/" rel="alternate" type="text/html" title="Net Magazine: Workspace tour" /><published>2014-02-07T14:42:00-05:00</published><updated>2014-02-07T14:42:00-05:00</updated><id>http://oak.is/thinking/net-magazine</id><content type="html" xml:base="http://oak.is/thinking/net-magazine/">&lt;p&gt;&lt;img src=&quot;/uploads/netmag-cover.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oak gives &lt;a href=&quot;http://www.creativebloq.com/net-magazine&quot;&gt;Net Magazine&lt;/a&gt; a quick tour of our workspace at &lt;a href=&quot;http://studiomates.com&quot;&gt;Studiomates&lt;/a&gt; in the latest issue (March 2014).&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://itunes.apple.com/us/app/net-magazine-voice-web-design/id451395878?mt=8&quot;&gt;iPad edition&lt;/a&gt; for an interactive audio version where we talk about ACORN (our Note.js-powered status board), our custom-built table (made from reclaimed oak), drones, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/netmag-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;http://www.creativebloq.com/net-magazine&quot;&gt;http://www.creativebloq.com/net-magazine&lt;/a&gt; for more.&lt;/p&gt;</content><category term="Studio" /><category term="Buzz" /><summary>Oak gives Net Magazine a quick tour of our workspace at Studiomates in the latest issue (March 2014).</summary></entry><entry><title>Nominated for Agency of the Year</title><link href="http://oak.is/thinking/net-awards/" rel="alternate" type="text/html" title="Nominated for Agency of the Year" /><published>2014-01-28T12:47:00-05:00</published><updated>2014-01-28T12:47:00-05:00</updated><id>http://oak.is/thinking/net-awards</id><content type="html" xml:base="http://oak.is/thinking/net-awards/">&lt;p class=&quot;left&quot;&gt;&lt;img src=&quot;/uploads/netmag-awards.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are honored to be nominated for &lt;a href=&quot;https://thenetawards.com/vote/agency/oak/&quot;&gt;Agency of the Year&lt;/a&gt; in the &lt;a href=&quot;https://thenetawards.com&quot;&gt;2014 Net Awards&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, we are also nominated for &lt;a href=&quot;https://thenetawards.com/vote/redesign/creativemornings-oak/&quot;&gt;Redesign of the Year&lt;/a&gt; for our work on &lt;a href=&quot;/helping/creativemornings&quot;&gt;Creative Mornings&lt;/a&gt;, and our very own Sawyer Hollenshead is nominated for &lt;a href=&quot;https://thenetawards.com/vote/young-designer/sawyer-hollenshead/&quot;&gt;Young Designer of the Year&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Think we deserve it? &lt;a href=&quot;https://thenetawards.com/vote/agency/oak/&quot;&gt;Cast your vote!&lt;/a&gt;&lt;/p&gt;</content><category term="Studio" /><category term="Buzz" /><summary></summary></entry><entry><title>Shipped in 2013</title><link href="http://oak.is/thinking/2013/" rel="alternate" type="text/html" title="Shipped in 2013" /><published>2013-12-30T10:55:00-05:00</published><updated>2013-12-30T10:55:00-05:00</updated><id>http://oak.is/thinking/2013</id><content type="html" xml:base="http://oak.is/thinking/2013/">&lt;h2 id=&quot;in-2013-we&quot;&gt;In 2013 we…&lt;/h2&gt;
+
+&lt;p&gt;Launched a marketing site for Monotype’s &lt;a href=&quot;/helping/monotype&quot;&gt;SkyFonts&lt;/a&gt; service.&lt;/p&gt;
+
+&lt;p&gt;Shipped (literally) 1000 &lt;a href=&quot;http://blog.symbolset.com/symbolset-catalog-available&quot;&gt;Symbolset specimen books&lt;/a&gt; to our favorite customers.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://dropmark.com/blog/dashboard&quot;&gt;Dashboard view&lt;/a&gt; on Dropmark with new privacy settings, quick upload, and collection merging.&lt;/p&gt;
+
+&lt;p&gt;Created and shipped our first iOS app &lt;a href=&quot;/thinking/blue&quot;&gt;Blue&lt;/a&gt; during &lt;a href=&quot;/thinking/oakweek-los-angeles&quot;&gt;Oakweek in Los Angeles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Designed our first piece of furniture, a &lt;a href=&quot;http://www.flickr.com/photos/oakmade/8619533203/&quot;&gt;16-foot worktable&lt;/a&gt; made of reclaimed oak (a collaboration with &lt;a href=&quot;http://www.lorimerworkshop.com&quot;&gt;Lorimer Workshop&lt;/a&gt;), completing our new studio space at &lt;a href=&quot;http://www.flickr.com/photos/swiss-miss/sets/72157634178073845/&quot;&gt;Studiomates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Redesigned &lt;a href=&quot;http://symbolset.com&quot;&gt;Symbolset.com&lt;/a&gt;, launched while attending SXSW in Austin.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://blog.symbolset.com/introducing-hosting&quot;&gt;Symbolset Hosting&lt;/a&gt; to simplify semantic icons on the web.&lt;/p&gt;
+
+&lt;p&gt;Designed a fresh new &lt;a href=&quot;/helping/quarterly/#2013&quot;&gt;packaging system&lt;/a&gt; for Quarterly Co.&lt;/p&gt;
+
+&lt;p&gt;Redefined RSS consumption with &lt;a href=&quot;/thinking/gazette&quot;&gt;Gazette&lt;/a&gt;, our weekly blog-to-ebook service.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;http://dropmark.com/blog/introducing-comments&quot;&gt;commenting, geo-location, and metadata&lt;/a&gt; in Dropmark.&lt;/p&gt;
+
+&lt;p&gt;Won 2 &lt;a href=&quot;/thinking/wnw-webby&quot;&gt;Webby Awards&lt;/a&gt; for Working Not Working.&lt;/p&gt;
+
+&lt;p&gt;Cooked up our second iOS app &lt;a href=&quot;http://pizza-compass.com&quot;&gt;Pizza Compass&lt;/a&gt; with studiomate &lt;a href=&quot;http://danblackman.com/pizzacompass/&quot;&gt;Dan Blackman&lt;/a&gt; and visionary &lt;a href=&quot;/thinking/pizza-compass&quot;&gt;Zeus Gorham Munkist&lt;/a&gt;, hitting #1 in the App Store Food &amp;amp; Drink category.&lt;/p&gt;
+
+&lt;p&gt;Shipped our third iOS app for &lt;a href=&quot;/helping/sva&quot;&gt;School of Visual Arts&lt;/a&gt;, powered by the Dropmark API.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dropmark.com/blog/more-storage/&quot;&gt;Doubled storage&lt;/a&gt; on Dropmark because we love our users.&lt;/p&gt;
+
+&lt;p&gt;Rebuilt and launched &lt;a href=&quot;http://www.siteleaf.com&quot;&gt;Siteleaf&lt;/a&gt; (our content management for web developers) to the world.&lt;/p&gt;
+
+&lt;p&gt;Created a marketing site for a stealth new startup, and fell in love with &lt;a href=&quot;/thinking/animated-svgs&quot;&gt;SVG animations&lt;/a&gt; along the way.&lt;/p&gt;
+
+&lt;p&gt;Made Dropmark better with &lt;a href=&quot;http://dropmark.com/blog/one-click-downloads&quot;&gt;one-click collection downloads&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gave Unix time (seconds since epoch) some stiff competition with our very own &lt;a href=&quot;http://secondssincetupac.com&quot;&gt;Seconds Since Tupac&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Launched our biggest project of the year, &lt;a href=&quot;/thinking/creativemornings&quot;&gt;CreativeMornings&lt;/a&gt; with over 345 hours of video, 11 languages, and 1,372 GitHub commits.&lt;/p&gt;
+
+&lt;p&gt;Hosted our first, second, and third &lt;a href=&quot;http://www.siteleaf.com/blog/hackday&quot;&gt;Siteleaf Hackday&lt;/a&gt; in Brooklyn.&lt;/p&gt;
+
+&lt;p&gt;Created a new website for type foundry collective &lt;a href=&quot;http://vllg.com&quot;&gt;Village&lt;/a&gt;, introducing responsive design and web font sales.&lt;/p&gt;
+
+&lt;p&gt;Added &lt;a href=&quot;http://www.siteleaf.com/blog/developer-accounts/&quot;&gt;developer accounts&lt;/a&gt; to Siteleaf, making it easy for developers to test sites for free.&lt;/p&gt;
+
+&lt;p&gt;Introduced &lt;a href=&quot;/thinking/sprout&quot;&gt;Sprout&lt;/a&gt;, a white-glove service to help customers optimize their website and upgrade to Siteleaf.&lt;/p&gt;
+
+&lt;p&gt;Added 6 new Symbolsets: &lt;a href=&quot;http://symbolset.com/icons/gizmo&quot;&gt;Gizmo&lt;/a&gt;, &lt;a href=&quot;http://symbolset.com/icons/forecast&quot;&gt;Forecast&lt;/a&gt;, &lt;a href=&quot;http://symbolset.com/icons/steedicons&quot;&gt;Steedicons&lt;/a&gt;, &lt;a href=&quot;http://symbolset.com/icons/junior&quot;&gt;Junior&lt;/a&gt;, &lt;a href=&quot;http://symbolset.com/icons/geomicons-square&quot;&gt;Geomicons Squared&lt;/a&gt;, and &lt;a href=&quot;http://symbolset.com/icons/air&quot;&gt;Air&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Created &lt;a href=&quot;http://www.woodshopusa.com&quot;&gt;Woodshop&lt;/a&gt;, a celebration of handcrafted wood products made in the USA.&lt;/p&gt;
+
+&lt;p&gt;Redesigned &lt;a href=&quot;http://workingnotworking.com&quot;&gt;Working Not Working&lt;/a&gt;, the biggest change since its first launch in 2011.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-with-us&quot;&gt;Work with us&lt;/h2&gt;
+
+&lt;p&gt;Have an interesting project? &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#111;&amp;#097;&amp;#107;&amp;#109;&amp;#097;&amp;#100;&amp;#101;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;Get in touch&lt;/a&gt; and let’s make things happen in 2014.&lt;/p&gt;</content><category term="Studio" /><summary>In 2013 we…</summary></entry></feed>
